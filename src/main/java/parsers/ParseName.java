@@ -3,36 +3,30 @@ package parsers;
 import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
 
-import java.util.ArrayList;
 
-public class ParseName {
-    public ArrayList<String> parseName(Document value) {
-        ArrayList<String> names = new ArrayList<>();
+public class ParseName implements IParse{
+
+    @Override
+    public String parser(Document value) {
+        String name = "";
         {
             try {
-                Elements name = value.select("a[data-test-id=ProductTile]");
-                String hrf = name.attr("href");
-                String str = null;
+                Elements nameEl = value.select("a[data-test-id=ProductTile]");
+                String hrf = nameEl.attr("href");
+                String str = "";
 
-                //String[] name2 = name.toString().split("</p>");
                 String a =  hrf.substring(hrf.lastIndexOf("/") + 1);
                 String[] b =  a.split("-");
-                System.out.println(b[0]);
                 for (String n : b) {
-                    str += str.concat(n);
+                    str += n + " ";
                 }
-//                    String noPrefixStr = namee.substring(namee.indexOf(prefix) + prefix.length());
-//                    if (!noPrefixStr.contains("&amp;"))
-//                        names.add(noPrefixStr);
-//                    else {
-//                        noPrefixStr = noPrefixStr.replace("&amp;", "&");
-//                        names.add(noPrefixStr);
-//                    }
-//                }
+                str = str.trim();
+                int index= str.lastIndexOf(" ");
+                name = str.substring(0, index);
             } catch (Exception e) {
                 e.printStackTrace();
             }
         }
-        return names;
+        return name;
     }
 }
