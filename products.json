@@ -1,1114 +1,3257 @@
 [
   {
-    "id: ": 3774568,
-    "colors: ": [
-      "#6495ed"
-    ],
-    "name:": "jeans loom blue jog pk 8472 noos",
-    "price: ": "39,90 EUR",
-    "brand: ": "Only \u0026 Sons"
-  },
-  {
-    "id: ": 4413088,
-    "colors: ": [
-      "#ffffff",
-      "#b7b7b7",
-      "#0000ff",
-      "#FE7D7E"
-    ],
-    "name:": "shirt ssgraphictshirt20",
-    "price: ": "24,90 EUR",
-    "brand: ": "LEVI\u0027S"
-  },
-  {
-    "id: ": 4316743,
-    "colors: ": [
-      "#b7b7b7",
-      "#000000",
-      "#7B0E2A"
-    ],
-    "name:": "sweatshirt",
-    "price: ": "39,90 EUR",
-    "brand: ": "Nike Sportswear"
-  },
-  {
-    "id: ": 4383745,
-    "colors: ": [
-      "#000000",
-      "#00008b",
-      "#B5AC9E",
-      "#ff0000"
-    ],
-    "name:": "jacke",
-    "price: ": "199,00 EUR",
-    "brand: ": "Tommy Jeans"
-  },
-  {
-    "id: ": 3421699,
-    "colors: ": [
-      "#000000",
-      "#b7b7b7",
-      "#6C6D6A",
-      "#E1E1DF"
-    ],
-    "name:": "jogginghose",
-    "price: ": "89,90 EUR",
-    "brand: ": "Nike Sportswear"
-  },
-  {
-    "id: ": 3791105,
-    "colors: ": [
-      "#13255A"
-    ],
-    "name:": "anzug 4 teilig",
-    "price: ": "ab 142,99 EUR",
-    "brand: ": "BRUNO BANANI"
-  },
-  {
-    "id: ": 4299766,
-    "colors: ": [
-      "#F74848",
-      "#ff0000",
-      "#3F5C9B",
-      "#E1E1DF"
-    ],
-    "name:": "t shirt",
-    "price: ": "29,90 EUR",
-    "brand: ": "GUESS"
-  },
-  {
-    "id: ": 3952557,
-    "colors: ": [
-      "#006400",
-      "#3E3F41",
-      "#b7b7b7",
-      "#4c2002"
-    ],
-    "name:": "pullover onssato multi clr knit noos",
-    "price: ": "29,90 EUR",
-    "brand: ": "Only \u0026 Sons"
-  },
-  {
-    "id: ": 4024993,
-    "colors: ": [
-      "#00008b",
-      "#000000",
-      "#ffffff"
-    ],
-    "name:": "langarmshirt tjm original rib",
-    "price: ": "34,90 EUR",
-    "brand: ": "Tommy Jeans"
-  },
-  {
-    "id: ": 4324776,
-    "colors: ": [
-      "#306C44",
-      "#000000"
-    ],
-    "name:": "shirt",
-    "price: ": "ab 25,90 EUR",
-    "brand: ": "ADIDAS ORIGINALS"
-  },
-  {
-    "id: ": 4484961,
-    "colors: ": [
-      "#00008b",
-      "#3E3F41"
-    ],
-    "name:": "winterjacke",
-    "price: ": "199,00 EUR",
-    "brand: ": "HELLY HANSEN"
-  },
-  {
-    "id: ": 4365509,
-    "colors: ": [
-      "#00008b",
-      "#B5AC9E",
-      "#000000",
-      "#ff0000"
-    ],
-    "name:": "jacke",
-    "price: ": "199,90 EUR",
-    "brand: ": "Tommy Jeans"
-  },
-  {
-    "id: ": 3424682,
-    "colors: ": [
-      "#9E9DA2",
-      "#000000",
-      "#6495ed"
-    ],
-    "name:": "roehrenjeans liam",
-    "price: ": "49,90 EUR",
-    "brand: ": "JACK \u0026 JONES"
-  },
-  {
-    "id: ": 4317725,
-    "colors: ": [
-      "#000000",
-      "#000080",
-      "#d8bfd8"
-    ],
-    "name:": "sweatshirt",
-    "price: ": "49,99 EUR",
-    "brand: ": "ADIDAS ORIGINALS"
-  },
-  {
-    "id: ": 3534402,
-    "colors: ": [
-      "#000000",
-      "#b7b7b7",
-      "#ffffff",
-      "#00008b"
-    ],
-    "name:": "t shirt",
-    "price: ": "24,90 EUR",
-    "brand: ": "LEVI\u0027S"
-  },
-  {
-    "id: ": 3808658,
-    "colors: ": [
-      "#000000",
-      "#ffffff",
-      "#000080",
-      "#8C0E1D"
-    ],
-    "name:": "hemd alfredo",
-    "price: ": "29,90 EUR",
-    "brand: ": "Only \u0026 Sons"
-  },
-  {
-    "id: ": 3915350,
-    "colors: ": [
-      "#000000"
-    ],
-    "name:": "boxershorts chuey",
-    "price: ": "34,99 EUR",
-    "brand: ": "JACK \u0026 JONES"
-  },
-  {
-    "id: ": 3605035,
-    "colors: ": [
-      "#0000ff",
-      "#add8e6"
-    ],
-    "name:": "shirt sportswearlogograph ic84sportswearl",
-    "price: ": "24,95 EUR",
-    "brand: ": "LEVI\u0027S"
-  },
-  {
-    "id: ": 3782063,
-    "colors: ": [
-      "#bdb76b",
-      "#BA2345",
-      "#807D84",
-      "#3E3F41"
-    ],
-    "name:": "willbur",
-    "price: ": "14,95 EUR",
-    "brand: ": "INDICODE JEANS"
-  },
-  {
-    "id: ": 3522263,
-    "colors: ": [
-      "#000000",
-      "#ffffff",
-      "#0000ff",
-      "#E1E1DF"
-    ],
-    "name:": "t shirt",
-    "price: ": "29,90 EUR",
-    "brand: ": "TOMMY HILFIGER"
-  },
-  {
-    "id: ": 3653194,
-    "colors: ": [
-      "#000000",
-      "#807D84",
-      "#808000",
-      "#008080"
-    ],
-    "name:": "hoody basic hoody",
-    "price: ": "59,90 EUR",
-    "brand: ": "ALPHA INDUSTRIES"
-  },
-  {
-    "id: ": 4479243,
-    "colors: ": [
-      "#0000ff",
-      "#b7b7b7",
-      "#ffff00",
-      "#306C44"
-    ],
-    "name:": "sweatshirt",
-    "price: ": "59,90 EUR",
-    "brand: ": "Champion Authentic Athletic Apparel"
-  },
-  {
-    "id: ": 3717829,
-    "colors: ": [
-      "#E1E1DF",
-      "#ffc0cb",
-      "#000000"
-    ],
-    "name:": "unisex hoody senta",
-    "price: ": "39,90 EUR",
-    "brand: ": "ABOUT YOU"
-  },
-  {
-    "id: ": 3930139,
-    "colors: ": [
-      "#7B0E2A",
-      "#000000",
-      "#008000",
-      "#b7b7b7"
-    ],
-    "name:": "sweatshirt jjeholmen",
-    "price: ": "19,90 EUR",
-    "brand: ": "JACK \u0026 JONES"
-  },
-  {
-    "id: ": 3930898,
-    "colors: ": [
-      "#00008b",
-      "#191970",
-      "#ff0000"
-    ],
-    "name:": "hemd jjegingham shirt l s",
-    "price: ": "29,90 EUR",
-    "brand: ": "JACK \u0026 JONES"
-  },
-  {
-    "id: ": 3952824,
-    "colors: ": [
-      "#807D84",
-      "#000080",
-      "#000000",
-      "#00008b"
-    ],
-    "name:": "hose onsmark pant gw 0209 noos",
-    "price: ": "39,90 EUR",
-    "brand: ": "Only \u0026 Sons"
-  },
-  {
-    "id: ": 3822905,
-    "colors: ": [
-      "#000000",
-      "#00008b",
-      "#E1E1DF",
-      "#ffffff"
-    ],
-    "name:": "t shirt",
-    "price: ": "24,90 EUR",
-    "brand: ": "Tommy Jeans"
-  },
-  {
-    "id: ": 4361499,
-    "colors: ": [
-      "#000080",
-      "#ffff00",
-      "#ff4500",
-      "#807D84"
-    ],
-    "name:": "sweatshirt crewneck",
-    "price: ": "49,90 EUR",
-    "brand: ": "Champion Authentic Athletic Apparel"
-  },
-  {
-    "id: ": 3887309,
-    "colors: ": [
-      "#b7b7b7",
-      "#807D84",
-      "#A4050C"
-    ],
-    "name:": "t shirt pray",
-    "price: ": "ab 19,90 EUR",
-    "brand: ": "Mister Tee"
-  },
-  {
-    "id: ": 4131827,
-    "colors: ": [
-      "#6495ed",
-      "#303030"
-    ],
-    "name:": "jeans glenn original am 814 noos",
-    "price: ": "39,90 EUR",
-    "brand: ": "JACK \u0026 JONES"
-  },
-  {
-    "id: ": 4342654,
-    "colors: ": [
-      "#00008b",
-      "#6495ed"
-    ],
-    "name:": "jeans tim",
-    "price: ": "79,90 EUR",
-    "brand: ": "JACK \u0026 JONES"
-  },
-  {
-    "id: ": 3824335,
-    "colors: ": [
-      "#000000",
-      "#ff0000",
-      "#87ceeb",
-      "#006400"
-    ],
-    "name:": "t shirt 3 stripes",
-    "price: ": "29,99 EUR",
-    "brand: ": "ADIDAS ORIGINALS"
-  },
-  {
-    "id: ": 4348040,
-    "colors: ": [
-      "#ffffff",
-      "#000080",
-      "#808000",
-      "#7B0E2A"
-    ],
-    "name:": "herren shirts und polos jjeorganic basic tee ss o neck noos",
-    "price: ": "12,90 EUR",
-    "brand: ": "JACK \u0026 JONES"
-  },
-  {
-    "id: ": 3568134,
-    "colors: ": [
-      "#000000",
-      "#ffffff",
-      "#807D84",
-      "#000080"
-    ],
-    "name:": "print shirt",
-    "price: ": "19,90 EUR",
-    "brand: ": "ALPHA INDUSTRIES"
-  },
-  {
-    "id: ": 4052327,
-    "colors: ": [
-      "#191970",
-      "#006400",
-      "#000000"
-    ],
-    "name:": "parka onsalex",
-    "price: ": "59,90 EUR",
-    "brand: ": "Only \u0026 Sons"
-  },
-  {
-    "id: ": 4157545,
-    "colors: ": [
-      "#000000",
-      "#000080",
-      "#006400"
-    ],
-    "name:": "shirt ls t",
-    "price: ": "34,90 EUR",
-    "brand: ": "ADIDAS ORIGINALS"
-  },
-  {
-    "id: ": 4371224,
-    "colors: ": [
-      "#000080",
-      "#b7b7b7",
-      "#7B0E2A",
-      "#ff0000"
-    ],
-    "name:": "t shirt",
-    "price: ": "22,90 EUR",
-    "brand: ": "Champion Authentic Athletic Apparel"
-  },
-  {
-    "id: ": 2201920,
-    "colors: ": [
-      "#2631b2",
-      "#663300",
-      "#E1D1B2",
-      "#4C4D4F"
-    ],
-    "name:": "chino shhyard",
-    "price: ": "59,90 EUR",
-    "brand: ": "SELECTED HOMME"
-  },
-  {
-    "id: ": 4320114,
-    "colors: ": [
-      "#000000",
-      "#000080",
-      "#006400"
-    ],
-    "name:": "shirt",
-    "price: ": "34,90 EUR",
-    "brand: ": "ADIDAS ORIGINALS"
-  },
-  {
-    "id: ": 4395877,
-    "colors: ": [
-      "#6495ed"
-    ],
-    "name:": "jeans",
-    "price: ": "99,95 EUR",
-    "brand: ": "CAMP DAVID"
-  },
-  {
-    "id: ": 4305913,
-    "colors: ": [
-      "#00008b",
-      "#000080",
-      "#000000",
-      "#807D84"
-    ],
-    "name:": "hose mark pant gw 0209",
-    "price: ": "39,90 EUR",
-    "brand: ": "Only \u0026 Sons"
-  },
-  {
-    "id: ": 3522616,
-    "colors: ": [
-      "#ffffff",
-      "#000000",
-      "#0000ff",
-      "#E1E1DF"
-    ],
-    "name:": "unifarbenes t shirt",
-    "price: ": "29,90 EUR",
-    "brand: ": "TOMMY HILFIGER"
-  },
-  {
-    "id: ": 4316778,
-    "colors: ": [
-      "#000000",
-      "#006400",
-      "#b7b7b7",
-      "#ECEAE4"
-    ],
-    "name:": "sweatshirt club",
-    "price: ": "49,90 EUR",
-    "brand: ": "Nike Sportswear"
-  },
-  {
-    "id: ": 4088963,
-    "colors: ": [
-      "#000080",
-      "#000000",
-      "#808000",
-      "#FCF5E8"
-    ],
-    "name:": "hose noos jjimarco jjbowie sa navy blazer noos",
-    "price: ": "39,90 EUR",
-    "brand: ": "JACK \u0026 JONES"
-  },
-  {
-    "id: ": 4086666,
-    "colors: ": [
-      "#000000",
-      "#808000",
-      "#000080",
-      "#FCF5E8"
-    ],
-    "name:": "hose marco",
-    "price: ": "39,90 EUR",
-    "brand: ": "JACK \u0026 JONES"
-  },
-  {
-    "id: ": 4342764,
-    "colors: ": [
-      "#9E9DA2"
-    ],
-    "name:": "jeans glenn am 881",
-    "price: ": "39,90 EUR",
-    "brand: ": "JACK \u0026 JONES"
-  },
-  {
-    "id: ": 4302494,
-    "colors: ": [
-      "#000000",
-      "#000080"
-    ],
-    "name:": "sweatshirt tech",
-    "price: ": "59,90 EUR",
-    "brand: ": "ADIDAS ORIGINALS"
-  },
-  {
-    "id: ": 4433580,
-    "colors: ": [
-      "#0000ff",
-      "#00008b",
-      "#b7b7b7"
-    ],
-    "name:": "t shirt",
-    "price: ": "15,90 EUR",
-    "brand: ": "s.Oliver"
-  },
-  {
-    "id: ": 4474261,
-    "colors: ": [
-      "#7B0E2A",
-      "#006400",
-      "#b7b7b7",
-      "#ECEAE4"
-    ],
-    "name:": "sweatshirt club",
-    "price: ": "49,90 EUR",
-    "brand: ": "Nike Sportswear"
-  },
-  {
-    "id: ": 3840772,
-    "colors: ": [
-      "#000000",
-      "#ff0000",
-      "#87ceeb",
-      "#006400"
-    ],
-    "name:": "t shirt 3 stripes",
-    "price: ": "29,99 EUR",
-    "brand: ": "ADIDAS ORIGINALS"
-  },
-  {
-    "id: ": 3568766,
-    "colors: ": [
-      "#00008b",
-      "#6495ed",
-      "#303030"
-    ],
-    "name:": "jeans 3301 straight",
-    "price: ": "99,90 EUR",
-    "brand: ": "G-Star RAW"
-  },
-  {
-    "id: ": 3842830,
-    "colors: ": [
-      "#000000",
-      "#F8F0E2",
-      "#bdb76b",
-      "#b7b7b7"
-    ],
-    "name:": "cargohose august",
-    "price: ": "49,95 EUR",
-    "brand: ": "INDICODE JEANS"
-  },
-  {
-    "id: ": 4435884,
-    "colors: ": [
-      "#6495ed"
-    ],
-    "name:": "jeans warp",
-    "price: ": "44,90 EUR",
-    "brand: ": "Only \u0026 Sons"
-  },
-  {
-    "id: ": 4304675,
-    "colors: ": [
-      "#303030"
-    ],
-    "name:": "jeans iglenn",
-    "price: ": "39,90 EUR",
-    "brand: ": "JACK \u0026 JONES"
-  },
-  {
-    "id: ": 2048483,
-    "colors: ": [
-      "#00008b",
-      "#6495ed",
-      "#303030"
-    ],
-    "name:": "jeans clark original",
-    "price: ": "69,90 EUR",
-    "brand: ": "JACK \u0026 JONES"
-  },
-  {
-    "id: ": 4305525,
-    "colors: ": [
-      "#000000"
-    ],
-    "name:": "anzug",
-    "price: ": "119,99 EUR",
-    "brand: ": "BRUNO BANANI"
-  },
-  {
-    "id: ": 4304953,
-    "colors: ": [
-      "#808000",
-      "#6C6D6A",
-      "#7cfc00",
-      "#ffffff"
-    ],
-    "name:": "shirt albert",
-    "price: ": "14,90 EUR",
-    "brand: ": "Only \u0026 Sons"
-  },
-  {
-    "id: ": 4317516,
-    "colors: ": [
-      "#b7b7b7",
-      "#00008b"
-    ],
-    "name:": "hose",
-    "price: ": "39,90 EUR",
-    "brand: ": "Only \u0026 Sons"
-  },
-  {
-    "id: ": 4310605,
-    "colors: ": [
-      "#6495ed"
-    ],
-    "name:": "jeans",
-    "price: ": "39,90 EUR",
-    "brand: ": "Only \u0026 Sons"
-  },
-  {
-    "id: ": 3998229,
-    "colors: ": [
-      "#000000",
-      "#ffffff",
-      "#191970",
-      "#b7b7b7"
-    ],
-    "name:": "t shirt core institutional logo slim tee",
-    "price: ": "29,90 EUR",
-    "brand: ": "Calvin Klein Jeans"
-  },
-  {
-    "id: ": 4166753,
-    "colors: ": [
-      "#303030",
-      "#6495ed"
-    ],
-    "name:": "jeans iglenn",
-    "price: ": "39,90 EUR",
-    "brand: ": "JACK \u0026 JONES"
-  },
-  {
-    "id: ": 4106687,
-    "colors: ": [
-      "#6C6D6A"
-    ],
-    "name:": "herren jeans jjitom jjoriginal am 817 noos",
-    "price: ": "ab 34,90 EUR",
-    "brand: ": "JACK \u0026 JONES"
-  },
-  {
-    "id: ": 3927828,
-    "colors: ": [
-      "#000000",
-      "#008000",
-      "#7B0E2A",
-      "#b7b7b7"
-    ],
-    "name:": "sweatshirt",
-    "price: ": "19,90 EUR",
-    "brand: ": "JACK \u0026 JONES"
-  },
-  {
-    "id: ": 3840647,
-    "colors: ": [
-      "#ffffff",
-      "#000000",
-      "#00008b",
-      "#E1E1DF"
-    ],
-    "name:": "t shirt",
-    "price: ": "24,90 EUR",
-    "brand: ": "Tommy Jeans"
-  },
-  {
-    "id: ": 4337479,
-    "colors: ": [
-      "#ffffff",
-      "#000000",
-      "#808000",
-      "#000080"
-    ],
-    "name:": "shirt club",
-    "price: ": "19,90 EUR",
-    "brand: ": "Nike Sportswear"
-  },
-  {
-    "id: ": 4493742,
-    "colors: ": [
-      "#800080",
-      "#000000",
-      "#006400",
-      "#0000ff"
-    ],
-    "name:": "daunenjacke m 1996 rto nuptse jkt",
-    "price: ": "249,00 EUR",
-    "brand: ": "THE NORTH FACE"
-  },
-  {
-    "id: ": 4493344,
-    "colors: ": [
-      "#000000",
-      "#00008b",
-      "#000080",
-      "#808000"
-    ],
-    "name:": "shirt",
-    "price: ": "24,90 EUR",
-    "brand: ": "Champion Authentic Athletic Apparel"
-  },
-  {
-    "id: ": 3910663,
-    "colors: ": [
-      "#B9B9B9",
-      "#5B7A35",
-      "#D4F3DD",
-      "#663300"
-    ],
-    "name:": "sweatshirt diese nuesse",
-    "price: ": "34,90 EUR",
-    "brand: ": "naketano"
-  },
-  {
-    "id: ": 4346893,
-    "colors: ": [
-      "#000000",
-      "#b7b7b7"
-    ],
-    "name:": "shirt",
-    "price: ": "34,90 EUR",
-    "brand: ": "LEVI\u0027S"
-  },
-  {
-    "id: ": 3954802,
-    "colors: ": [
-      "#000000",
-      "#ffff00"
-    ],
-    "name:": "funktionsjacke himalayan light down hoodie",
-    "price: ": "229,00 EUR",
-    "brand: ": "THE NORTH FACE"
-  },
-  {
-    "id: ": 4453114,
-    "colors: ": [
-      "#000000",
-      "#ffffff",
-      "#2631b2",
-      "#330033"
-    ],
-    "name:": "shirt",
-    "price: ": "39,90 EUR",
-    "brand: ": "GUESS"
-  },
-  {
-    "id: ": 3947842,
-    "colors: ": [
-      "#000080",
-      "#000000"
-    ],
-    "name:": "hoodie ecorp",
-    "price: ": "29,90 EUR",
-    "brand: ": "JACK \u0026 JONES"
-  },
-  {
-    "id: ": 4374825,
-    "colors: ": [
-      "#000000",
-      "#ffffff",
-      "#00008b",
-      "#b7b7b7"
-    ],
-    "name:": "t shirt",
-    "price: ": "39,90 EUR",
-    "brand: ": "Calvin Klein Jeans"
-  },
-  {
-    "id: ": 4430614,
-    "colors: ": [
-      "#807D84",
-      "#2631b2"
-    ],
-    "name:": "sweatshirt swoosh",
-    "price: ": "ab 52,90 EUR",
-    "brand: ": "Nike Sportswear"
-  },
-  {
-    "id: ": 3923174,
-    "colors: ": [
-      "#303030",
-      "#b7b7b7",
-      "#6495ed"
-    ],
-    "name:": "hemd jjesheridan shirt l s",
-    "price: ": "39,90 EUR",
-    "brand: ": "JACK \u0026 JONES"
-  },
-  {
-    "id: ": 4472955,
-    "colors: ": [
-      "#000000",
-      "#4169e1"
-    ],
-    "name:": "t shirt outline",
-    "price: ": "27,90 EUR",
-    "brand: ": "ADIDAS ORIGINALS"
-  },
-  {
-    "id: ": 4491115,
-    "colors: ": [
-      "#000000",
-      "#add8e6",
-      "#3F5C9B"
-    ],
-    "name:": "boxershorts",
-    "price: ": "39,90 EUR",
-    "brand: ": "Calvin Klein Underwear"
-  },
-  {
-    "id: ": 4434919,
-    "colors: ": [
-      "#000080",
-      "#00008b",
-      "#808000",
-      "#000000"
-    ],
-    "name:": "shirt",
-    "price: ": "24,90 EUR",
-    "brand: ": "Champion Authentic Athletic Apparel"
-  },
-  {
-    "id: ": 4372629,
-    "colors: ": [
-      "#0000ff",
-      "#008000",
-      "#ffffff",
-      "#000000"
-    ],
-    "name:": "blouson bacon",
-    "price: ": "69,95 EUR",
-    "brand: ": "INDICODE JEANS"
-  },
-  {
-    "id: ": 3693178,
-    "colors: ": [
-      "#00008b",
-      "#b7b7b7",
-      "#ffffff",
-      "#000000"
-    ],
-    "name:": "t shirt",
-    "price: ": "24,90 EUR",
-    "brand: ": "LEVI\u0027S"
-  },
-  {
-    "id: ": 3956693,
-    "colors: ": [
-      "#b7b7b7",
-      "#000000",
-      "#6C6D6A",
-      "#E1E1DF"
-    ],
-    "name:": "jogginghose",
-    "price: ": "89,90 EUR",
-    "brand: ": "Nike Sportswear"
-  },
-  {
-    "id: ": 4372636,
-    "colors: ": [
-      "#000000",
-      "#008000",
-      "#ffffff",
-      "#0000ff"
-    ],
-    "name:": "blouson bacon",
-    "price: ": "69,95 EUR",
-    "brand: ": "INDICODE JEANS"
-  },
-  {
-    "id: ": 4300548,
-    "colors: ": [
-      "#000000",
-      "#b7b7b7",
-      "#0000ff",
-      "#6C6D6A"
-    ],
-    "name:": "sweatshirt",
-    "price: ": "ab 44,90 EUR",
-    "brand: ": "ELLESSE"
-  },
-  {
-    "id: ": 4419889,
-    "colors: ": [
-      "#6C6D6A",
-      "#00008b",
-      "#000000"
-    ],
-    "name:": "mantel",
-    "price: ": "59,90 EUR",
-    "brand: ": "Only \u0026 Sons"
-  },
-  {
-    "id: ": 4485470,
-    "colors: ": [
-      "#3E3F41",
-      "#00008b"
-    ],
-    "name:": "jacke puffer",
-    "price: ": "199,95 EUR",
-    "brand: ": "HELLY HANSEN"
-  },
-  {
-    "id: ": 4473538,
-    "colors: ": [
-      "#E1E1DF",
-      "#00008b"
-    ],
-    "name:": "freizeitanzuege m nsw ce trk suit flc",
-    "price: ": "84,90 EUR",
-    "brand: ": "Nike Sportswear"
-  },
-  {
-    "id: ": 3933220,
-    "colors: ": [
-      "#6C6D6A",
-      "#807D84",
-      "#000000",
-      "#191970"
-    ],
-    "name:": "pullover",
-    "price: ": "24,90 EUR",
-    "brand: ": "JACK \u0026 JONES"
-  },
-  {
-    "id: ": 4031792,
-    "colors: ": [
-      "#C1B2A1",
-      "#544138",
-      "#00008b",
-      "#708090"
-    ],
-    "name:": "langarmshirt do the oemer dance",
-    "price: ": "29,90 EUR",
-    "brand: ": "naketano"
-  },
-  {
-    "id: ": 3665552,
-    "colors: ": [
-      "#191970",
-      "#00008b",
-      "#000000"
-    ],
-    "name:": "t shirt prado",
-    "price: ": "21,90 EUR",
-    "brand: ": "ELLESSE"
-  },
-  {
-    "id: ": 3424616,
-    "colors: ": [
-      "#000000",
-      "#6495ed",
-      "#9E9DA2"
-    ],
-    "name:": "roehrenjeans liam",
-    "price: ": "49,90 EUR",
-    "brand: ": "JACK \u0026 JONES"
-  },
-  {
-    "id: ": 4027171,
-    "colors: ": [
-      "#6C6D6A",
-      "#F8F0E2",
-      "#808000",
-      "#000000"
-    ],
-    "name:": "hose",
-    "price: ": "ab 49,90 EUR",
-    "brand: ": "Urban Classics"
-  },
-  {
-    "id: ": 4318915,
-    "colors: ": [
-      "#000000",
-      "#ff0000",
-      "#807D84"
-    ],
-    "name:": "kapuzensweatshirt",
-    "price: ": "54,99 EUR",
-    "brand: ": "Nike Sportswear"
-  },
-  {
-    "id: ": 3924766,
-    "colors: ": [
-      "#000000",
-      "#000080"
-    ],
-    "name:": "hoodie",
-    "price: ": "29,90 EUR",
-    "brand: ": "JACK \u0026 JONES"
-  },
-  {
-    "id: ": 1962106,
-    "colors: ": [
-      "#6495ed"
-    ],
-    "name:": "jeans jjiglenn jjoriginal jos 875 noos",
-    "price: ": "69,90 EUR",
-    "brand: ": "JACK \u0026 JONES"
-  },
-  {
-    "id: ": 4026487,
-    "colors: ": [
-      "#0000ff",
-      "#000000",
-      "#807D84",
-      "#ffffff"
-    ],
-    "name:": "boxershorts",
-    "price: ": "ab 39,90 EUR",
-    "brand: ": "Calvin Klein Underwear"
-  },
-  {
-    "id: ": 4020020,
-    "colors: ": [
-      "#303030"
-    ],
-    "name:": "jeans onsloom black dcc 0448 noos",
-    "price: ": "39,90 EUR",
-    "brand: ": "Only \u0026 Sons"
-  },
-  {
-    "id: ": 3765764,
-    "colors: ": [
-      "#00008b",
-      "#000000",
-      "#b7b7b7",
-      "#B54D16"
-    ],
-    "name:": "parka chance",
-    "price: ": "119,95 EUR",
-    "brand: ": "INDICODE JEANS"
-  },
-  {
-    "id: ": 3396665,
-    "colors: ": [
-      "#000000",
-      "#000080",
-      "#00008b",
-      "#b7b7b7"
-    ],
-    "name:": "boxershorts trunk",
-    "price: ": "ab 39,99 EUR",
-    "brand: ": "Tommy Hilfiger Underwear"
-  },
-  {
-    "id: ": 4412584,
-    "colors: ": [
-      "#000000",
-      "#00008b",
-      "#b7b7b7"
-    ],
-    "name:": "shirt",
-    "price: ": "39,90 EUR",
-    "brand: ": "TOMMY HILFIGER"
-  },
-  {
-    "id: ": 606896,
-    "colors: ": [
-      "#807D84",
-      "#000000",
-      "#ffffff",
-      "#0000ff"
-    ],
-    "name:": "boxershorts",
-    "price: ": "ab 39,99 EUR",
-    "brand: ": "Calvin Klein Underwear"
+    "price": "39,90 EUR",
+    "variants": [
+      {
+        "color": "blue denim",
+        "name": "Jeans \u0027LOOM BLUE JOG PK 8472 NOOS\u0027",
+        "id": 3774568
+      }
+    ],
+    "id": 3774568,
+    "brand": "Only \u0026 Sons"
+  },
+  {
+    "price": "24,90 EUR",
+    "variants": [
+      {
+        "color": "weiß",
+        "name": "Shirt \u0027SSGRAPHICTSHIRT2.0\u0027",
+        "id": 4413088
+      },
+      {
+        "color": "mischfarben / offwhite",
+        "name": "Shirt \u0027SSGRAPHICTSHIRT2.0\u0027",
+        "id": 4508081
+      },
+      {
+        "color": "grau",
+        "name": "Shirt",
+        "id": 4346422
+      },
+      {
+        "color": "blau",
+        "name": "Shirt",
+        "id": 4363489
+      },
+      {
+        "color": "dunkelblau",
+        "name": "Shirt \u0027SSGRAPHICTSHIRT2.0\u0027",
+        "id": 4331659
+      }
+    ],
+    "id": 4413088,
+    "brand": "LEVI\u0027S"
+  },
+  {
+    "price": "39,90 EUR",
+    "variants": [
+      {
+        "color": "grau",
+        "name": "Sweatshirt Workpant \u0027WE872\u0027",
+        "id": 4316743
+      },
+      {
+        "color": "weinrot",
+        "name": "Sweatshirt Hose \u0027M NSW SWOOSH PANT BB\u0027",
+        "id": 4474273
+      },
+      {
+        "color": "schwarz",
+        "name": "Sweatshirt",
+        "id": 4332584
+      },
+      {
+        "color": "beige",
+        "name": "Workpant \u0027WE872\u0027",
+        "id": 3567543
+      }
+    ],
+    "id": 4316743,
+    "brand": "Nike Sportswear"
+  },
+  {
+    "price": "199,00 EUR",
+    "variants": [
+      {
+        "color": "schwarz",
+        "name": "Jacke High Top Sneaker \u0027SK8-HI\u0027",
+        "id": 4383745
+      },
+      {
+        "color": "dunkelblau",
+        "name": "Jacke",
+        "id": 4365509
+      },
+      {
+        "color": "weiß",
+        "name": "Winterjacke",
+        "id": 4417593
+      },
+      {
+        "color": "burgunder",
+        "name": "Jacke \u0027 ESSENTIAL DOWN JACKET\u0027",
+        "id": 4415980
+      },
+      {
+        "color": "dunkelgrün",
+        "name": "Jacke \u0027TJM ESSENTIAL DOWN JACKET\u0027",
+        "id": 4411640
+      },
+      {
+        "color": "gelb",
+        "name": "Jacke \u0027TJM ESSENTIAL DOWN JACKET\u0027",
+        "id": 4411633
+      },
+      {
+        "color": "taupe",
+        "name": "Jacke",
+        "id": 4375038
+      },
+      {
+        "color": "rot",
+        "name": "Daunenjacke \u0027ESSENTIAL\u0027",
+        "id": 4399588
+      },
+      {
+        "color": "weiß",
+        "name": "High Top Sneaker \u0027SK8-HI\u0027",
+        "id": 3553867
+      }
+    ],
+    "id": 4383745,
+    "brand": "Tommy Jeans"
+  },
+  {
+    "price": "ab 143,99 EUR",
+    "variants": [
+      {
+        "color": "marine",
+        "name": "Anzug 4-teilig",
+        "id": 3791105
+      }
+    ],
+    "id": 3791105,
+    "brand": "BRUNO BANANI"
+  },
+  {
+    "price": "94,95 EUR",
+    "variants": [
+      {
+        "color": "schwarz",
+        "name": "Winterjacke \u0027Elmhurts\u0027",
+        "id": 4018589
+      },
+      {
+        "color": "sand",
+        "name": "Winterjacke \u0027Elmhurts\u0027",
+        "id": 4018578
+      },
+      {
+        "color": "oliv",
+        "name": "Winterjacke \u0027Elmhurts\u0027",
+        "id": 4018582
+      },
+      {
+        "color": "navy",
+        "name": "Winterjacke \u0027Elmhurts\u0027",
+        "id": 4018586
+      }
+    ],
+    "id": 4018589,
+    "brand": "INDICODE JEANS"
+  },
+  {
+    "price": "29,90 EUR",
+    "variants": [
+      {
+        "color": "hellrot / schwarz / weiß",
+        "name": "T-Shirt Jeans \u0027Joshua\u0027",
+        "id": 4299766
+      },
+      {
+        "color": "rot / schwarz / weiß",
+        "name": "T-Shirt T-Shirt",
+        "id": 4295968
+      },
+      {
+        "color": "hellgrau / hellrot / schwarz / weiß",
+        "name": "T-Shirt",
+        "id": 4324381
+      },
+      {
+        "color": "saphir / hellrot / schwarz / weiß",
+        "name": "T-Shirt",
+        "id": 4324307
+      },
+      {
+        "color": "grey denim",
+        "name": "Jeans \u0027Joshua\u0027",
+        "id": 3795592
+      }
+    ],
+    "id": 4299766,
+    "brand": "GUESS"
+  },
+  {
+    "price": "29,90 EUR",
+    "variants": [
+      {
+        "color": "dunkelgrün",
+        "name": "Pullover \u0027onsSATO MULTI CLR KNIT NOOS\u0027",
+        "id": 3952557
+      },
+      {
+        "color": "grau",
+        "name": "Pullover \u0027SATO\u0027 Sneaker \u0027Authentic\u0027",
+        "id": 4504197
+      },
+      {
+        "color": "navy",
+        "name": "Pullover \u0027onsSATO MULTI CLR KNIT NOOS\u0027",
+        "id": 4456278
+      },
+      {
+        "color": "schwarz / weiß",
+        "name": "Pullover \u0027onsSATO MULTI CLR KNIT NOOS\u0027",
+        "id": 4362406
+      },
+      {
+        "color": "hellblau / dunkelblau",
+        "name": "Pullover Jeans \u0027Lean Dean\u0027",
+        "id": 4409559
+      },
+      {
+        "color": "orangerot / schwarz",
+        "name": "Pullover \u0027onsSATO MULTI CLR KNIT NOOS\u0027",
+        "id": 4410297
+      },
+      {
+        "color": "dunkelbraun / senf",
+        "name": "",
+        "id": 4025072
+      },
+      {
+        "color": "anthrazit / dunkelgrau",
+        "name": "Pullover",
+        "id": 3952546
+      },
+      {
+        "color": "grau / hellgrau",
+        "name": "Pullover \u0027onsSATO MULTI CLR KNIT NOOS\u0027",
+        "id": 3952567
+      },
+      {
+        "color": "dunkelblau",
+        "name": "Pullover \u0027onsSATO MULTI CLR KNIT NOOS\u0027",
+        "id": 3952569
+      },
+      {
+        "color": "schwarz",
+        "name": "Pullover",
+        "id": 4468420
+      }
+    ],
+    "id": 3952557,
+    "brand": "Only \u0026 Sons"
+  },
+  {
+    "price": "34,90 EUR",
+    "variants": [
+      {
+        "color": "dunkelblau",
+        "name": "Langarmshirt \u0027TJM ORIGINAL RIB\u0027",
+        "id": 4024993
+      },
+      {
+        "color": "weiß",
+        "name": "Langarmshirt \u0027TJM ORIGINAL RIB\u0027",
+        "id": 3833679
+      },
+      {
+        "color": "schwarz",
+        "name": "Shirt",
+        "id": 3822955
+      }
+    ],
+    "id": 4024993,
+    "brand": "Tommy Jeans"
+  },
+  {
+    "price": "ab 25,90 EUR",
+    "variants": [
+      {
+        "color": "tanne / weiß",
+        "name": "Shirt",
+        "id": 4324776
+      },
+      {
+        "color": "schwarz / weiß",
+        "name": "Shirt \u0027OUTLINE TRE TEE\u0027",
+        "id": 4340162
+      },
+      {
+        "color": "schwarz",
+        "name": "Shirt Jeans \u0027RCS Slim Dynami Pants\u0027",
+        "id": 4363997
+      }
+    ],
+    "id": 4324776,
+    "brand": "ADIDAS ORIGINALS"
+  },
+  {
+    "price": "199,00 EUR",
+    "variants": [
+      {
+        "color": "dunkelblau / dunkelgrün / orange",
+        "name": "Winterjacke",
+        "id": 4484961
+      },
+      {
+        "color": "anthrazit / schwarz",
+        "name": "Jacke \u0027Puffer\u0027",
+        "id": 4485470
+      }
+    ],
+    "id": 4484961,
+    "brand": "HELLY HANSEN"
+  },
+  {
+    "price": "199,90 EUR",
+    "variants": [
+      {
+        "color": "dunkelblau",
+        "name": "Jacke",
+        "id": 4365509
+      },
+      {
+        "color": "weiß",
+        "name": "Winterjacke",
+        "id": 4417593
+      },
+      {
+        "color": "burgunder",
+        "name": "Jacke \u0027 ESSENTIAL DOWN JACKET\u0027",
+        "id": 4415980
+      },
+      {
+        "color": "dunkelgrün",
+        "name": "Jacke \u0027TJM ESSENTIAL DOWN JACKET\u0027",
+        "id": 4411640
+      },
+      {
+        "color": "gelb",
+        "name": "Jacke \u0027TJM ESSENTIAL DOWN JACKET\u0027",
+        "id": 4411633
+      },
+      {
+        "color": "schwarz",
+        "name": "Jacke High Top Sneaker \u0027SK8-HI\u0027",
+        "id": 4383745
+      },
+      {
+        "color": "taupe",
+        "name": "Jacke",
+        "id": 4375038
+      },
+      {
+        "color": "rot",
+        "name": "Daunenjacke \u0027ESSENTIAL\u0027",
+        "id": 4399588
+      }
+    ],
+    "id": 4365509,
+    "brand": "Tommy Jeans"
+  },
+  {
+    "price": "49,90 EUR",
+    "variants": [
+      {
+        "color": "grey denim",
+        "name": "Röhrenjeans \u0027Liam\u0027",
+        "id": 3424682
+      },
+      {
+        "color": "blue denim",
+        "name": "Röhrenjeans \u0027Liam\u0027",
+        "id": 3424644
+      },
+      {
+        "color": "schwarz",
+        "name": "Röhrenjeans \u0027Liam\u0027",
+        "id": 3424616
+      }
+    ],
+    "id": 3424682,
+    "brand": "JACK \u0026 JONES"
+  },
+  {
+    "price": "59,99 EUR",
+    "variants": [
+      {
+        "color": "graumeliert / schwarz / weiß",
+        "name": "Sweatshirt Bomberjacke",
+        "id": 4417328
+      },
+      {
+        "color": "navy / gelb",
+        "name": "Sweatshirt Sneaker \u00273 MC\u0027",
+        "id": 4435731
+      },
+      {
+        "color": "navy / weiß",
+        "name": "Sweatshirt",
+        "id": 4435716
+      },
+      {
+        "color": "schwarz",
+        "name": "Bomberjacke",
+        "id": 3481282
+      }
+    ],
+    "id": 4417328,
+    "brand": "Champion Authentic Athletic Apparel"
+  },
+  {
+    "price": "49,90 EUR",
+    "variants": [
+      {
+        "color": "schwarz / weiß",
+        "name": "Sweatshirt",
+        "id": 4317725
+      },
+      {
+        "color": "flieder",
+        "name": "Sweatshirt \u0027LOCK UP CREW\u0027",
+        "id": 4461710
+      },
+      {
+        "color": "navy",
+        "name": "Sweatshirt \u0027LOCK UP CREW\u0027",
+        "id": 4332460
+      }
+    ],
+    "id": 4317725,
+    "brand": "ADIDAS ORIGINALS"
+  },
+  {
+    "price": "24,90 EUR",
+    "variants": [
+      {
+        "color": "schwarz",
+        "name": "T-Shirt",
+        "id": 3534402
+      },
+      {
+        "color": "weiß",
+        "name": "T-shirt \u0027Housemark Graphic Tee\u0027",
+        "id": 4282078
+      },
+      {
+        "color": "weiß",
+        "name": "T-Shirt \u0027HOUSEMARK\u0027",
+        "id": 4380595
+      },
+      {
+        "color": "weinrot",
+        "name": "T-shirt \u0027HOUSEMARK GRAPHIC TEE\u0027 Jeans \u0027Hi-Ball Roll\u0027",
+        "id": 4331770
+      },
+      {
+        "color": "dunkelblau",
+        "name": "T-shirt \u0027Housemark Graphic Tee\u0027",
+        "id": 4280897
+      },
+      {
+        "color": "schwarz",
+        "name": "T-shirt \u0027HOUSEMARK GRAPHIC\u0027",
+        "id": 4276456
+      },
+      {
+        "color": "hellblau / weiß",
+        "name": "T-Shirt \u0027HOUSEMARK\u0027",
+        "id": 3903170
+      },
+      {
+        "color": "rot / weiß",
+        "name": "T-Shirt",
+        "id": 4295598
+      },
+      {
+        "color": "dunkelblau",
+        "name": "T-Shirt",
+        "id": 3693178
+      },
+      {
+        "color": "weiß",
+        "name": "T-Shirt",
+        "id": 3431043
+      },
+      {
+        "color": "grau",
+        "name": "T-Shirt",
+        "id": 3431042
+      }
+    ],
+    "id": 3534402,
+    "brand": "LEVI\u0027S"
+  },
+  {
+    "price": "29,90 EUR",
+    "variants": [
+      {
+        "color": "schwarz",
+        "name": "Hemd \u0027ALFREDO\u0027",
+        "id": 3808658
+      },
+      {
+        "color": "bordeaux",
+        "name": "Hemd \u0027ALFREDO\u0027",
+        "id": 4445339
+      },
+      {
+        "color": "dunkelgrün",
+        "name": "Hemd \u0027ALFREDO\u0027",
+        "id": 4445343
+      },
+      {
+        "color": "navy",
+        "name": "Hemd \u0027ALFREDO\u0027",
+        "id": 3649781
+      },
+      {
+        "color": "weiß",
+        "name": "Hemd \u0027ALFREDO\u0027",
+        "id": 3649771
+      }
+    ],
+    "id": 3808658,
+    "brand": "Only \u0026 Sons"
+  },
+  {
+    "price": "34,90 EUR",
+    "variants": [
+      {
+        "color": "schwarz",
+        "name": "Boxershorts \u0027CHUEY\u0027",
+        "id": 3915350
+      }
+    ],
+    "id": 3915350,
+    "brand": "JACK \u0026 JONES"
+  },
+  {
+    "price": "24,95 EUR",
+    "variants": [
+      {
+        "color": "blau / rot / weiß",
+        "name": "Shirt \u0027SPORTSWEARLOGOGRAPH IC84SPORTSWEARL\u0027",
+        "id": 3605035
+      },
+      {
+        "color": "hellblau",
+        "name": "Shirt Hemd",
+        "id": 4508077
+      },
+      {
+        "color": "blau / graumeliert / rot",
+        "name": "Shirt",
+        "id": 3605038
+      }
+    ],
+    "id": 3605035,
+    "brand": "LEVI\u0027S"
+  },
+  {
+    "price": "14,95 EUR",
+    "variants": [
+      {
+        "color": "khaki",
+        "name": "\u0027Willbur\u0027",
+        "id": 3782063
+      },
+      {
+        "color": "weiß",
+        "name": "\u0027Willbur\u0027",
+        "id": 3824115
+      },
+      {
+        "color": "hellgrau",
+        "name": "\u0027Willbur\u0027",
+        "id": 3782053
+      },
+      {
+        "color": "blaumeliert",
+        "name": "\u0027Willbur\u0027",
+        "id": 3782057
+      },
+      {
+        "color": "anthrazit",
+        "name": "\u0027Willbur\u0027",
+        "id": 3782050
+      },
+      {
+        "color": "graumeliert",
+        "name": "\u0027Willbur\u0027",
+        "id": 3782046
+      },
+      {
+        "color": "rotmeliert",
+        "name": "\u0027Willbur\u0027",
+        "id": 3782040
+      },
+      {
+        "color": "schwarzmeliert",
+        "name": "\u0027Willbur\u0027",
+        "id": 3782076
+      },
+      {
+        "color": "graumeliert",
+        "name": "\u0027Willbur\u0027",
+        "id": 3782068
+      },
+      {
+        "color": "navy",
+        "name": "\u0027Willbur\u0027",
+        "id": 3782289
+      }
+    ],
+    "id": 3782063,
+    "brand": "INDICODE JEANS"
+  },
+  {
+    "price": "29,90 EUR",
+    "variants": [
+      {
+        "color": "schwarz",
+        "name": "T-Shirt",
+        "id": 3522263
+      },
+      {
+        "color": "blau",
+        "name": "Unifarbenes T-Shirt",
+        "id": 3523516
+      },
+      {
+        "color": "weiß",
+        "name": "Unifarbenes T-Shirt",
+        "id": 3522616
+      },
+      {
+        "color": "hellgrau",
+        "name": "Shirt Straight fit Jeans \u0027Denton\u0027",
+        "id": 3726034
+      }
+    ],
+    "id": 3522263,
+    "brand": "TOMMY HILFIGER"
+  },
+  {
+    "price": "59,90 EUR",
+    "variants": [
+      {
+        "color": "schwarz / weiß",
+        "name": "Hoody \u0027Basic Hoody\u0027",
+        "id": 3653194
+      },
+      {
+        "color": "schwarz / weiß",
+        "name": "Hoody \u0027Basic\u0027",
+        "id": 4156182
+      },
+      {
+        "color": "navy",
+        "name": "Hoody",
+        "id": 4318232
+      },
+      {
+        "color": "petrol / orange",
+        "name": "Hoody \u0027Basic\u0027 Sweathose mit Stepp-Partien \u0027Trevor Zip\u0027",
+        "id": 4156060
+      },
+      {
+        "color": "oliv / schwarz",
+        "name": "Hoody \u0027Basic\u0027",
+        "id": 3672124
+      },
+      {
+        "color": "graumeliert / schwarz",
+        "name": "Hoody \u0027Basic\u0027",
+        "id": 3653195
+      }
+    ],
+    "id": 3653194,
+    "brand": "ALPHA INDUSTRIES"
+  },
+  {
+    "price": "59,90 EUR",
+    "variants": [
+      {
+        "color": "blau / weiß",
+        "name": "Sweatshirt",
+        "id": 4479243
+      },
+      {
+        "color": "blau / khaki",
+        "name": "Sweatshirt",
+        "id": 4438527
+      },
+      {
+        "color": "navy / weiß",
+        "name": "Sweatshirt Hose \u0027Schino-Tapered 10209697 01\u0027",
+        "id": 4436360
+      },
+      {
+        "color": "orangerot",
+        "name": "Sweatshirt",
+        "id": 4386534
+      },
+      {
+        "color": "tanne / weiß",
+        "name": "Sweatshirt Hose \u0027ROY JAMES\u0027",
+        "id": 4371328
+      },
+      {
+        "color": "gelb",
+        "name": "Sweatshirt",
+        "id": 4371256
+      },
+      {
+        "color": "blau / weiß",
+        "name": "Sweatshirt Sneaker \u0027Chuck Taylor AS Core\u0027",
+        "id": 4367419
+      },
+      {
+        "color": "rot / schwarz",
+        "name": "Sweatshirt",
+        "id": 4440789
+      },
+      {
+        "color": "schwarz / weiß",
+        "name": "Sweatshirt",
+        "id": 4440792
+      },
+      {
+        "color": "grau",
+        "name": "Sweatshirt",
+        "id": 4361443
+      }
+    ],
+    "id": 4479243,
+    "brand": "Champion Authentic Athletic Apparel"
+  },
+  {
+    "price": "39,90 EUR",
+    "variants": [
+      {
+        "color": "hellgrau",
+        "name": "Unisex Hoody \u0027Senta\u0027",
+        "id": 3717829
+      },
+      {
+        "color": "rosa",
+        "name": "Hoody \u0027Senta\u0027",
+        "id": 3717828
+      },
+      {
+        "color": "schwarz",
+        "name": "Hoody \u0027Senta\u0027",
+        "id": 3749753
+      }
+    ],
+    "id": 3717829,
+    "brand": "ABOUT YOU"
+  },
+  {
+    "price": "19,90 EUR",
+    "variants": [
+      {
+        "color": "weinrot",
+        "name": "Sweatshirt \u0027JJEHOLMEN\u0027",
+        "id": 3930139
+      },
+      {
+        "color": "dunkelorange",
+        "name": "Sweatshirt \u0027JJEHOLMEN\u0027",
+        "id": 4373701
+      },
+      {
+        "color": "navy",
+        "name": "Sweatshirt \u0027JJEHOLMEN SWEAT CREW NECK\u0027",
+        "id": 3933196
+      },
+      {
+        "color": "grau / dunkelgrau / graumeliert",
+        "name": "Sweatshirt Sneaker \u0027Stan Smith\u0027",
+        "id": 3930156
+      },
+      {
+        "color": "grün / oliv",
+        "name": "Sweatshirt",
+        "id": 3928058
+      },
+      {
+        "color": "schwarz",
+        "name": "Sweatshirt",
+        "id": 3927828
+      }
+    ],
+    "id": 3930139,
+    "brand": "JACK \u0026 JONES"
+  },
+  {
+    "price": "29,90 EUR",
+    "variants": [
+      {
+        "color": "dunkelblau / weinrot",
+        "name": "Hemd \u0027JJEGINGHAM SHIRT L/S\u0027",
+        "id": 3930898
+      },
+      {
+        "color": "rot",
+        "name": "Hemd",
+        "id": 3942506
+      },
+      {
+        "color": "nachtblau / weiß",
+        "name": "Hemd \u0027JJEGINGHAM SHIRT L/S\u0027 Sneaker \u0027Stan Smith\u0027",
+        "id": 3930179
+      }
+    ],
+    "id": 3930898,
+    "brand": "JACK \u0026 JONES"
+  },
+  {
+    "price": "39,90 EUR",
+    "variants": [
+      {
+        "color": "graumeliert",
+        "name": "Hose \u0027onsMARK PANT GW 0209 NOOS\u0027",
+        "id": 3952824
+      },
+      {
+        "color": "dunkelgrau",
+        "name": "Hose \u0027MARK\u0027",
+        "id": 4463345
+      },
+      {
+        "color": "dunkelblau",
+        "name": "Hose \u0027MARK PANT GW 0209\u0027",
+        "id": 4305913
+      },
+      {
+        "color": "schwarz",
+        "name": "Hose",
+        "id": 3952815
+      },
+      {
+        "color": "navy",
+        "name": "Hose \u0027MARK PANT GW 0209\u0027",
+        "id": 3952720
+      }
+    ],
+    "id": 3952824,
+    "brand": "Only \u0026 Sons"
+  },
+  {
+    "price": "24,90 EUR",
+    "variants": [
+      {
+        "color": "schwarz",
+        "name": "T-Shirt",
+        "id": 3822905
+      },
+      {
+        "color": "weiß",
+        "name": "T-Shirt",
+        "id": 3840647
+      },
+      {
+        "color": "hellgrau",
+        "name": "Shirt",
+        "id": 3822944
+      },
+      {
+        "color": "dunkelblau",
+        "name": "T-Shirt \u0027TJM ORIGINAL JERSEY\u0027",
+        "id": 3822916
+      }
+    ],
+    "id": 3822905,
+    "brand": "Tommy Jeans"
+  },
+  {
+    "price": "49,90 EUR",
+    "variants": [
+      {
+        "color": "navy / weiß",
+        "name": "Sweatshirt \u0027Crewneck\u0027",
+        "id": 4361499
+      },
+      {
+        "color": "dunkelblau / offwhite",
+        "name": "Sweatshirt",
+        "id": 4493353
+      },
+      {
+        "color": "khaki / schwarz",
+        "name": "Sweatshirt",
+        "id": 4464889
+      },
+      {
+        "color": "petrol / weiß",
+        "name": "Sweatshirt Sneaker \u0027Authentic\u0027",
+        "id": 4466141
+      },
+      {
+        "color": "graumeliert / weiß",
+        "name": "Sweatshirt",
+        "id": 4436333
+      },
+      {
+        "color": "schwarz",
+        "name": "Sweatshirt Jeans \u0027Hatch\u0027",
+        "id": 4436356
+      },
+      {
+        "color": "orangerot",
+        "name": "Sweatshirt Sweathose \u0027VARISTY FLEECE TRACK PANT\u0027",
+        "id": 4417285
+      },
+      {
+        "color": "blau / weiß",
+        "name": "Sweatshirt Sneaker \u0027Authentic\u0027",
+        "id": 4448331
+      },
+      {
+        "color": "tanne / weiß",
+        "name": "Sweatshirt",
+        "id": 4448334
+      },
+      {
+        "color": "navy / graumeliert",
+        "name": "Sweatshirt",
+        "id": 4386525
+      },
+      {
+        "color": "gelb",
+        "name": "Sweatshirt",
+        "id": 4371250
+      },
+      {
+        "color": "dunkelrot / schwarz",
+        "name": "Sweatshirt",
+        "id": 4464223
+      }
+    ],
+    "id": 4361499,
+    "brand": "Champion Authentic Athletic Apparel"
+  },
+  {
+    "price": "ab 19,90 EUR",
+    "variants": [
+      {
+        "color": "grau / schwarz",
+        "name": "T-Shirt \u0027Pray\u0027",
+        "id": 3887309
+      },
+      {
+        "color": "graumeliert",
+        "name": "T-Shirt \u0027Pray\u0027",
+        "id": 3904017
+      },
+      {
+        "color": "rubinrot",
+        "name": "T-Shirt \u0027Pray\u0027",
+        "id": 3904023
+      },
+      {
+        "color": "grau / weiß",
+        "name": "Tee \u0027Pray\u0027",
+        "id": 3886089
+      },
+      {
+        "color": "grau / oliv",
+        "name": "T-Shirt \u0027Pray Tee black\u0027 Jeans \u0027D-Staq 5-pkt Slim\u0027",
+        "id": 3888508
+      }
+    ],
+    "id": 3887309,
+    "brand": "Mister Tee"
+  },
+  {
+    "price": "39,90 EUR",
+    "variants": [
+      {
+        "color": "blue denim",
+        "name": "Jeans \u0027Glenn Original AM 814 Noos\u0027",
+        "id": 4131827
+      },
+      {
+        "color": "black denim",
+        "name": "Jeans \u0027Iglenn\u0027",
+        "id": 4166753
+      },
+      {
+        "color": "black denim",
+        "name": "Jeans \u0027Glenn Original Am 816\u0027",
+        "id": 4140068
+      },
+      {
+        "color": "blue denim",
+        "name": "Jeans \u0027Glenn Original AM 815\u0027",
+        "id": 4132440
+      }
+    ],
+    "id": 4131827,
+    "brand": "JACK \u0026 JONES"
+  },
+  {
+    "price": "79,90 EUR",
+    "variants": [
+      {
+        "color": "dunkelblau",
+        "name": "Jeans \u0027Tim\u0027",
+        "id": 4342654
+      },
+      {
+        "color": "blue denim",
+        "name": "Jeans \u0027Tim\u0027",
+        "id": 4372526
+      },
+      {
+        "color": "blue denim",
+        "name": "Jeans \u0027Tim Original Jos 919\u0027",
+        "id": 3567522
+      }
+    ],
+    "id": 4342654,
+    "brand": "JACK \u0026 JONES"
+  },
+  {
+    "price": "29,99 EUR",
+    "variants": [
+      {
+        "color": "schwarz / weiß",
+        "name": "T-Shirt \u00273-Stripes\u0027",
+        "id": 3824335
+      },
+      {
+        "color": "schwarz / weiß",
+        "name": "T-Shirt \u00273-Stripes\u0027",
+        "id": 3840772
+      },
+      {
+        "color": "dunkelgrün",
+        "name": "Shirt",
+        "id": 4411863
+      },
+      {
+        "color": "himmelblau / weiß",
+        "name": "Shirt",
+        "id": 4192512
+      },
+      {
+        "color": "rot / weiß",
+        "name": "T-Shirt \u00273-Stripes\u0027",
+        "id": 4117912
+      }
+    ],
+    "id": 3824335,
+    "brand": "ADIDAS ORIGINALS"
+  },
+  {
+    "price": "19,90 EUR",
+    "variants": [
+      {
+        "color": "rot / schwarz",
+        "name": "T-Shirt \u0027ORIGINAL HM TEE\u0027",
+        "id": 3919662
+      },
+      {
+        "color": "hellblau",
+        "name": "T-Shirt",
+        "id": 4271958
+      },
+      {
+        "color": "blau",
+        "name": "T-Shirt",
+        "id": 4271918
+      },
+      {
+        "color": "grau",
+        "name": "T-Shirt \u0027ORIGINAL HM TEE\u0027",
+        "id": 4467025
+      },
+      {
+        "color": "weinrot",
+        "name": "T-Shirt \u0027ORIGINAL HM TEE\u0027 Sneaker Low \u0027OLD SKOOL\u0027",
+        "id": 4331750
+      },
+      {
+        "color": "braun / dunkelgrün",
+        "name": "T-Shirt \u0027ORIGINAL HM TEE\u0027",
+        "id": 4328158
+      },
+      {
+        "color": "rot",
+        "name": "T-Shirt",
+        "id": 4272130
+      },
+      {
+        "color": "navy",
+        "name": "T-Shirt",
+        "id": 4078276
+      },
+      {
+        "color": "blau",
+        "name": "T-Shirt \u0027ORIGINAL HM TEE\u0027 Sneaker \u0027Stan Smith\u0027",
+        "id": 4129578
+      },
+      {
+        "color": "rot / weiß",
+        "name": "T-Shirt \u0027ORIGINAL HM TEE\u0027",
+        "id": 3921769
+      }
+    ],
+    "id": 3919662,
+    "brand": "LEVI\u0027S"
+  },
+  {
+    "price": "12,90 EUR",
+    "variants": [
+      {
+        "color": "weiß",
+        "name": "Herren - Shirts \u0026 Polos \u0027JJEORGANIC BASIC TEE SS O-NECK NOOS\u0027",
+        "id": 4348040
+      },
+      {
+        "color": "schwarz",
+        "name": "T-Shirt \u0027Organic Basic Tee\u0027",
+        "id": 4348134
+      },
+      {
+        "color": "grau",
+        "name": "T-Shirt",
+        "id": 4348309
+      },
+      {
+        "color": "dunkelgrau",
+        "name": "Shirt \u0027ORGANIC\u0027",
+        "id": 4348275
+      },
+      {
+        "color": "pastellblau",
+        "name": "T-Shirt",
+        "id": 4348264
+      },
+      {
+        "color": "zitronengelb",
+        "name": "T-Shirt",
+        "id": 4348196
+      },
+      {
+        "color": "dunkellila",
+        "name": "T-Shirt",
+        "id": 4347874
+      },
+      {
+        "color": "apricot",
+        "name": "T-Shirt",
+        "id": 4347873
+      },
+      {
+        "color": "smaragd",
+        "name": "T-Shirt",
+        "id": 4347872
+      },
+      {
+        "color": "braun",
+        "name": "T-Shirt",
+        "id": 4347180
+      },
+      {
+        "color": "orange",
+        "name": "T-Shirt",
+        "id": 4347178
+      },
+      {
+        "color": "orange",
+        "name": "T-Shirt",
+        "id": 4347173
+      },
+      {
+        "color": "blau",
+        "name": "T-Shirt",
+        "id": 4347167
+      },
+      {
+        "color": "weinrot",
+        "name": "T-Shirt",
+        "id": 4342878
+      },
+      {
+        "color": "oliv",
+        "name": "T-Shirt",
+        "id": 4283493
+      },
+      {
+        "color": "navy",
+        "name": "T-Shirt",
+        "id": 4283406
+      }
+    ],
+    "id": 4348040,
+    "brand": "JACK \u0026 JONES"
+  },
+  {
+    "price": "19,90 EUR",
+    "variants": [
+      {
+        "color": "schwarz",
+        "name": "Print-Shirt",
+        "id": 3568134
+      },
+      {
+        "color": "lila",
+        "name": "Print-Shirt",
+        "id": 4332158
+      },
+      {
+        "color": "weiß",
+        "name": "Shirt",
+        "id": 4318242
+      },
+      {
+        "color": "weiß",
+        "name": "Shirt",
+        "id": 4318247
+      },
+      {
+        "color": "pastellrot",
+        "name": "Shirt Jeans \u0027onsLOOM DARK BLUE LD PK 3683 NOOS\u0027",
+        "id": 4318254
+      },
+      {
+        "color": "offwhite",
+        "name": "Shirt",
+        "id": 4157401
+      },
+      {
+        "color": "oliv",
+        "name": "Print-Shirt",
+        "id": 4156776
+      },
+      {
+        "color": "dunkelgrau / schwarz",
+        "name": "Print-Shirt",
+        "id": 3805342
+      },
+      {
+        "color": "dunkelgrün",
+        "name": "Print-Shirt",
+        "id": 4156757
+      },
+      {
+        "color": "oliv",
+        "name": "Shirt Hose",
+        "id": 4157345
+      },
+      {
+        "color": "dunkelblau / grau",
+        "name": "Print-Shirt",
+        "id": 3634770
+      },
+      {
+        "color": "hellblau / schwarz",
+        "name": "Print-Shirta",
+        "id": 3634774
+      },
+      {
+        "color": "graphit / weiß",
+        "name": "Print-Shirt",
+        "id": 3634783
+      },
+      {
+        "color": "graumeliert / weiß",
+        "name": "Print-Shirt",
+        "id": 3674257
+      },
+      {
+        "color": "dunkelgrün",
+        "name": "Print-Shirt",
+        "id": 3559812
+      },
+      {
+        "color": "burgunder",
+        "name": "Print-Shirt",
+        "id": 3557896
+      },
+      {
+        "color": "oliv",
+        "name": "Print-Shirt",
+        "id": 3557888
+      },
+      {
+        "color": "navy / weiß",
+        "name": "Print-Shirt",
+        "id": 3444320
+      },
+      {
+        "color": "graumeliert",
+        "name": "Print-Shirt",
+        "id": 2211981
+      },
+      {
+        "color": "weiß",
+        "name": "Print-Shirt",
+        "id": 2191025
+      }
+    ],
+    "id": 3568134,
+    "brand": "ALPHA INDUSTRIES"
+  },
+  {
+    "price": "34,90 EUR",
+    "variants": [
+      {
+        "color": "schwarz / weiß",
+        "name": "Shirt \u0027LS T\u0027",
+        "id": 4157545
+      },
+      {
+        "color": "dunkelgrün",
+        "name": "Sweatshirt \u00273-STRIPES LS T\u0027",
+        "id": 4489711
+      },
+      {
+        "color": "schwarz / weiß",
+        "name": "Shirt",
+        "id": 4320114
+      },
+      {
+        "color": "navy",
+        "name": "Shirt",
+        "id": 4319649
+      }
+    ],
+    "id": 4157545,
+    "brand": "ADIDAS ORIGINALS"
+  },
+  {
+    "price": "49,90 EUR",
+    "variants": [
+      {
+        "color": "black denim",
+        "name": "Jeans \u0027Culver\u0027",
+        "id": 4110810
+      }
+    ],
+    "id": 4110810,
+    "brand": "TOM TAILOR DENIM"
+  },
+  {
+    "price": "59,90 EUR",
+    "variants": [
+      {
+        "color": "enzian",
+        "name": "Chino \u0027SHHYARD\u0027",
+        "id": 2201920
+      },
+      {
+        "color": "beige",
+        "name": "Chino \u0027SHHYARD\u0027",
+        "id": 3139368
+      },
+      {
+        "color": "graphit",
+        "name": "Chino",
+        "id": 3766756
+      },
+      {
+        "color": "braun",
+        "name": "Chino \u0027SHHYARD\u0027",
+        "id": 2222720
+      }
+    ],
+    "id": 2201920,
+    "brand": "SELECTED HOMME"
+  },
+  {
+    "price": "34,90 EUR",
+    "variants": [
+      {
+        "color": "schwarz / weiß",
+        "name": "Shirt",
+        "id": 4320114
+      },
+      {
+        "color": "dunkelgrün",
+        "name": "Sweatshirt \u00273-STRIPES LS T\u0027",
+        "id": 4489711
+      },
+      {
+        "color": "navy",
+        "name": "Shirt",
+        "id": 4319649
+      },
+      {
+        "color": "schwarz / weiß",
+        "name": "Shirt \u0027LS T\u0027",
+        "id": 4157545
+      }
+    ],
+    "id": 4320114,
+    "brand": "ADIDAS ORIGINALS"
+  },
+  {
+    "price": "24,90 EUR",
+    "variants": [
+      {
+        "color": "schwarz",
+        "name": "T-Shirt \u0027Prado\u0027",
+        "id": 3653123
+      },
+      {
+        "color": "nachtblau / weiß",
+        "name": "T-Shirt \u0027Prado\u0027",
+        "id": 3665552
+      },
+      {
+        "color": "dunkelblau / graumeliert",
+        "name": "T-Shirt \u0027PRADO\u0027",
+        "id": 3650747
+      },
+      {
+        "color": "dunkelblau / weiß",
+        "name": "T-Shirt \u0027Prado\u0027",
+        "id": 3665545
+      }
+    ],
+    "id": 3653123,
+    "brand": "ELLESSE"
+  },
+  {
+    "price": "99,95 EUR",
+    "variants": [
+      {
+        "color": "blue denim",
+        "name": "Jeans",
+        "id": 4395877
+      }
+    ],
+    "id": 4395877,
+    "brand": "CAMP DAVID"
+  },
+  {
+    "price": "29,90 EUR",
+    "variants": [
+      {
+        "color": "weiß",
+        "name": "Unifarbenes T-Shirt",
+        "id": 3522616
+      },
+      {
+        "color": "blau",
+        "name": "Unifarbenes T-Shirt",
+        "id": 3523516
+      },
+      {
+        "color": "schwarz",
+        "name": "T-Shirt",
+        "id": 3522263
+      },
+      {
+        "color": "hellgrau",
+        "name": "Shirt Straight fit Jeans \u0027Denton\u0027",
+        "id": 3726034
+      }
+    ],
+    "id": 3522616,
+    "brand": "TOMMY HILFIGER"
+  },
+  {
+    "price": "49,90 EUR",
+    "variants": [
+      {
+        "color": "schwarz",
+        "name": "Sweatshirt \u0027Club\u0027 Workpant \u0027WE872\u0027",
+        "id": 4316778
+      },
+      {
+        "color": "orange",
+        "name": "Sweatshirt \u0027Club\u0027",
+        "id": 4510016
+      },
+      {
+        "color": "rostrot",
+        "name": "Sweatshirt \u0027Club\u0027 High Top Sneaker \u0027SK8-HI\u0027",
+        "id": 4473555
+      },
+      {
+        "color": "weinrot",
+        "name": "Sweatshirt \u0027Club\u0027 Jeans \u0027Anbass\u0027",
+        "id": 4474261
+      },
+      {
+        "color": "petrol",
+        "name": "Sweatshirt \u0027Club\u0027 Hose \u0027M NSW SWOOSH PANT BB\u0027",
+        "id": 4474716
+      },
+      {
+        "color": "rot",
+        "name": "Sweatshirt \u0027Club\u0027",
+        "id": 4362842
+      },
+      {
+        "color": "dunkelblau",
+        "name": "Sweatshirt \u0027Club\u0027 Sneaker \u0027Air Max 270 Futura\u0027",
+        "id": 4332592
+      },
+      {
+        "color": "dunkelgrün",
+        "name": "Sweatshirt \u0027CLUB\u0027",
+        "id": 4316751
+      },
+      {
+        "color": "weiß",
+        "name": "Sweatshirt \u0027Club\u0027",
+        "id": 4316771
+      },
+      {
+        "color": "naturweiß",
+        "name": "Sweatshirt \u0027CLUB\u0027 Workpant \u0027WE872\u0027",
+        "id": 4316763
+      },
+      {
+        "color": "grau",
+        "name": "Sweatshirt \u0027Club\u0027 Hose \u0027AIR\u0027",
+        "id": 4316756
+      },
+      {
+        "color": "beige",
+        "name": "Workpant \u0027WE872\u0027",
+        "id": 3567543
+      }
+    ],
+    "id": 4316778,
+    "brand": "Nike Sportswear"
+  },
+  {
+    "price": "39,90 EUR",
+    "variants": [
+      {
+        "color": "navy",
+        "name": "Hose \u0027NOOS - JJIMARCO JJBOWIE SA NAVY BLAZER NOOS\u0027",
+        "id": 4088963
+      },
+      {
+        "color": "hellbeige",
+        "name": "Hose \u0027MARCO BOWIE SA BEIGE NOOS\u0027",
+        "id": 4135203
+      },
+      {
+        "color": "oliv",
+        "name": "Hose \u0027MARCO BOWIE\u0027",
+        "id": 4088875
+      },
+      {
+        "color": "schwarz",
+        "name": "Hose \u0027MARCO\u0027",
+        "id": 4086666
+      }
+    ],
+    "id": 4088963,
+    "brand": "JACK \u0026 JONES"
+  },
+  {
+    "price": "39,90 EUR",
+    "variants": [
+      {
+        "color": "schwarz",
+        "name": "Hose \u0027MARCO\u0027",
+        "id": 4086666
+      },
+      {
+        "color": "hellbeige",
+        "name": "Hose \u0027MARCO BOWIE SA BEIGE NOOS\u0027",
+        "id": 4135203
+      },
+      {
+        "color": "oliv",
+        "name": "Hose \u0027MARCO BOWIE\u0027",
+        "id": 4088875
+      },
+      {
+        "color": "navy",
+        "name": "Hose \u0027NOOS - JJIMARCO JJBOWIE SA NAVY BLAZER NOOS\u0027",
+        "id": 4088963
+      }
+    ],
+    "id": 4086666,
+    "brand": "JACK \u0026 JONES"
+  },
+  {
+    "price": "39,90 EUR",
+    "variants": [
+      {
+        "color": "grey denim",
+        "name": "Jeans \u0027GLENN AM 881\u0027",
+        "id": 4342764
+      }
+    ],
+    "id": 4342764,
+    "brand": "JACK \u0026 JONES"
+  },
+  {
+    "price": "59,99 EUR",
+    "variants": [
+      {
+        "color": "schwarz / weiß",
+        "name": "Sweatshirt \u0027Tech\u0027",
+        "id": 4302494
+      },
+      {
+        "color": "navy",
+        "name": "Sweatshirt \u0027LOCK UP HOODY\u0027",
+        "id": 4346426
+      }
+    ],
+    "id": 4302494,
+    "brand": "ADIDAS ORIGINALS"
+  },
+  {
+    "price": "15,90 EUR",
+    "variants": [
+      {
+        "color": "blau / graumeliert / rot",
+        "name": "T-Shirt",
+        "id": 4433580
+      },
+      {
+        "color": "grau / schwarz / weiß",
+        "name": "T-Shirt",
+        "id": 4433582
+      },
+      {
+        "color": "dunkelblau / senf / weiß",
+        "name": "T-Shirt",
+        "id": 4433579
+      },
+      {
+        "color": "blau / rot / weiß",
+        "name": "T-Shirt",
+        "id": 4433577
+      }
+    ],
+    "id": 4433580,
+    "brand": "s.Oliver"
+  },
+  {
+    "price": "49,90 EUR",
+    "variants": [
+      {
+        "color": "weinrot",
+        "name": "Sweatshirt \u0027Club\u0027 Jeans \u0027Anbass\u0027",
+        "id": 4474261
+      },
+      {
+        "color": "orange",
+        "name": "Sweatshirt \u0027Club\u0027",
+        "id": 4510016
+      },
+      {
+        "color": "rostrot",
+        "name": "Sweatshirt \u0027Club\u0027 High Top Sneaker \u0027SK8-HI\u0027",
+        "id": 4473555
+      },
+      {
+        "color": "petrol",
+        "name": "Sweatshirt \u0027Club\u0027 Hose \u0027M NSW SWOOSH PANT BB\u0027",
+        "id": 4474716
+      },
+      {
+        "color": "rot",
+        "name": "Sweatshirt \u0027Club\u0027",
+        "id": 4362842
+      },
+      {
+        "color": "dunkelblau",
+        "name": "Sweatshirt \u0027Club\u0027 Sneaker \u0027Air Max 270 Futura\u0027",
+        "id": 4332592
+      },
+      {
+        "color": "dunkelgrün",
+        "name": "Sweatshirt \u0027CLUB\u0027",
+        "id": 4316751
+      },
+      {
+        "color": "weiß",
+        "name": "Sweatshirt \u0027Club\u0027",
+        "id": 4316771
+      },
+      {
+        "color": "naturweiß",
+        "name": "Sweatshirt \u0027CLUB\u0027 Workpant \u0027WE872\u0027",
+        "id": 4316763
+      },
+      {
+        "color": "grau",
+        "name": "Sweatshirt \u0027Club\u0027 Hose \u0027AIR\u0027",
+        "id": 4316756
+      },
+      {
+        "color": "schwarz",
+        "name": "Sweatshirt \u0027Club\u0027 Workpant \u0027WE872\u0027",
+        "id": 4316778
+      },
+      {
+        "color": "navy",
+        "name": "Jeans \u0027Anbass\u0027 Pullover \u0027PULL\u0027",
+        "id": 4473463
+      }
+    ],
+    "id": 4474261,
+    "brand": "Nike Sportswear"
+  },
+  {
+    "price": "29,99 EUR",
+    "variants": [
+      {
+        "color": "schwarz / weiß",
+        "name": "T-Shirt \u00273-Stripes\u0027",
+        "id": 3840772
+      },
+      {
+        "color": "schwarz / weiß",
+        "name": "T-Shirt \u00273-Stripes\u0027",
+        "id": 3824335
+      },
+      {
+        "color": "dunkelgrün",
+        "name": "Shirt",
+        "id": 4411863
+      },
+      {
+        "color": "himmelblau / weiß",
+        "name": "Shirt",
+        "id": 4192512
+      },
+      {
+        "color": "rot / weiß",
+        "name": "T-Shirt \u00273-Stripes\u0027",
+        "id": 4117912
+      }
+    ],
+    "id": 3840772,
+    "brand": "ADIDAS ORIGINALS"
+  },
+  {
+    "price": "99,90 EUR",
+    "variants": [
+      {
+        "color": "dunkelblau",
+        "name": "Jeans \u00273301 Straight\u0027",
+        "id": 3568766
+      },
+      {
+        "color": "black denim",
+        "name": "Jeans \u00273301 Straight\u0027",
+        "id": 4504100
+      },
+      {
+        "color": "blue denim",
+        "name": "Jeans \u00273301 Straight\u0027",
+        "id": 4174664
+      },
+      {
+        "color": "blue denim",
+        "name": "Jeans \u00273301 Straight\u0027",
+        "id": 3916628
+      },
+      {
+        "color": "blue denim",
+        "name": "Jeans",
+        "id": 4296732
+      },
+      {
+        "color": "blue denim",
+        "name": "Jeans Sneaker \u0027Howell\u0027",
+        "id": 4284647
+      }
+    ],
+    "id": 3568766,
+    "brand": "G-Star RAW"
+  },
+  {
+    "price": "49,95 EUR",
+    "variants": [
+      {
+        "color": "schwarz",
+        "name": "Cargohose \u0027August\u0027",
+        "id": 3842830
+      },
+      {
+        "color": "sand",
+        "name": "Cargohose \u0027August\u0027",
+        "id": 3838394
+      },
+      {
+        "color": "khaki / oliv",
+        "name": "Cargohose \u0027August\u0027",
+        "id": 3842897
+      },
+      {
+        "color": "grey denim",
+        "name": "Cargohose \u0027August\u0027",
+        "id": 3842883
+      },
+      {
+        "color": "grau",
+        "name": "Cargohose \u0027August\u0027",
+        "id": 3842870
+      },
+      {
+        "color": "khaki",
+        "name": "Cargohose \u0027August\u0027",
+        "id": 3842858
+      }
+    ],
+    "id": 3842830,
+    "brand": "INDICODE JEANS"
+  },
+  {
+    "price": "44,90 EUR",
+    "variants": [
+      {
+        "color": "blue denim",
+        "name": "Jeans \u0027WARP\u0027",
+        "id": 4435884
+      }
+    ],
+    "id": 4435884,
+    "brand": "Only \u0026 Sons"
+  },
+  {
+    "price": "69,90 EUR",
+    "variants": [
+      {
+        "color": "dunkelblau",
+        "name": "Jeans \u0027Clark Original\u0027",
+        "id": 2048483
+      },
+      {
+        "color": "black denim",
+        "name": "Jeans \u0027JJICLARK JJORIGINAL JOS 183 NOOS\u0027",
+        "id": 4345402
+      },
+      {
+        "color": "blue denim",
+        "name": "Jeans \u0027Clark\u0027",
+        "id": 4144000
+      },
+      {
+        "color": "blue denim",
+        "name": "Jeans \u0027Clark Original\u0027",
+        "id": 4070824
+      }
+    ],
+    "id": 2048483,
+    "brand": "JACK \u0026 JONES"
+  },
+  {
+    "price": "119,99 EUR",
+    "variants": [
+      {
+        "color": "schwarz",
+        "name": "Anzug",
+        "id": 4305525
+      }
+    ],
+    "id": 4305525,
+    "brand": "BRUNO BANANI"
+  },
+  {
+    "price": "14,90 EUR",
+    "variants": [
+      {
+        "color": "oliv",
+        "name": "Shirt \u0027ALBERT\u0027",
+        "id": 4304953
+      },
+      {
+        "color": "taubenblau",
+        "name": "Shirt \u0027onsALBERT\u0027",
+        "id": 4476609
+      },
+      {
+        "color": "rot",
+        "name": "Shirt \u0027onsALBERT\u0027",
+        "id": 4476585
+      },
+      {
+        "color": "schwarz",
+        "name": "T-Shirt \u0027onsAlbert\u0027",
+        "id": 4405940
+      },
+      {
+        "color": "weinrot",
+        "name": "Shirt \u0027ALBERT\u0027",
+        "id": 4304255
+      },
+      {
+        "color": "camel",
+        "name": "Shirt \u0027ALBERT\u0027",
+        "id": 4304251
+      },
+      {
+        "color": "taubenblau",
+        "name": "T-Shirt \u0027onsALBERT\u0027",
+        "id": 4232707
+      },
+      {
+        "color": "grasgrün",
+        "name": "Shirt \u0027onsALBERT\u0027",
+        "id": 3814829
+      },
+      {
+        "color": "dunkelgrau",
+        "name": "T-Shirt \u0027onsALBERT\u0027",
+        "id": 3814069
+      },
+      {
+        "color": "weiß",
+        "name": "T-Shirt \u0027onsALBERT\u0027",
+        "id": 3821117
+      }
+    ],
+    "id": 4304953,
+    "brand": "Only \u0026 Sons"
+  },
+  {
+    "price": "39,90 EUR",
+    "variants": [
+      {
+        "color": "grau",
+        "name": "Hose",
+        "id": 4317516
+      },
+      {
+        "color": "dunkelblau",
+        "name": "Chino",
+        "id": 4317528
+      }
+    ],
+    "id": 4317516,
+    "brand": "Only \u0026 Sons"
+  },
+  {
+    "price": "39,90 EUR",
+    "variants": [
+      {
+        "color": "schwarz",
+        "name": "Strickpullover",
+        "id": 4434021
+      },
+      {
+        "color": "beige",
+        "name": "Strickpullover",
+        "id": 4499722
+      },
+      {
+        "color": "dunkelgrau",
+        "name": "Strickpullover",
+        "id": 4434028
+      },
+      {
+        "color": "dunkelorange",
+        "name": "Strickpullover",
+        "id": 4459415
+      },
+      {
+        "color": "navy",
+        "name": "Strickpullover",
+        "id": 4408661
+      },
+      {
+        "color": "weinrot",
+        "name": "Strickpullover",
+        "id": 4434013
+      }
+    ],
+    "id": 4434021,
+    "brand": "JACK \u0026 JONES"
+  },
+  {
+    "price": "39,90 EUR",
+    "variants": [
+      {
+        "color": "blue denim",
+        "name": "Jeans Hemd",
+        "id": 4310605
+      },
+      {
+        "color": "dunkelblau",
+        "name": "Hemd Jeans",
+        "id": 4310789
+      }
+    ],
+    "id": 4310605,
+    "brand": "Only \u0026 Sons"
+  },
+  {
+    "price": "29,90 EUR",
+    "variants": [
+      {
+        "color": "schwarz / weiß",
+        "name": "T-Shirt \u0027Core Institutional Logo Slim Tee\u0027 Jeans \u0027SERVANDO X\u0027",
+        "id": 3998229
+      },
+      {
+        "color": "grau",
+        "name": "Shirt",
+        "id": 4297095
+      },
+      {
+        "color": "nachtblau / weiß",
+        "name": "T-Shirt",
+        "id": 4000055
+      },
+      {
+        "color": "weiß",
+        "name": "T-Shirt \u0027Core Institutional Logo Slim Tee\u0027",
+        "id": 3998218
+      },
+      {
+        "color": "grey denim",
+        "name": "Jeans \u0027SERVANDO X\u0027 Jeansjacke \u0027TYPE 3 SHERPA TRUCKER\u0027",
+        "id": 3996669
+      }
+    ],
+    "id": 3998229,
+    "brand": "Calvin Klein Jeans"
+  },
+  {
+    "price": "39,90 EUR",
+    "variants": [
+      {
+        "color": "black denim",
+        "name": "Jeans \u0027Iglenn\u0027",
+        "id": 4166753
+      },
+      {
+        "color": "black denim",
+        "name": "Jeans \u0027Glenn Original Am 816\u0027",
+        "id": 4140068
+      },
+      {
+        "color": "blue denim",
+        "name": "Jeans \u0027Glenn Original AM 815\u0027",
+        "id": 4132440
+      },
+      {
+        "color": "blue denim",
+        "name": "Jeans \u0027Glenn Original AM 814 Noos\u0027",
+        "id": 4131827
+      }
+    ],
+    "id": 4166753,
+    "brand": "JACK \u0026 JONES"
+  },
+  {
+    "price": "99,90 EUR",
+    "variants": [
+      {
+        "color": "hellgrau / schwarz",
+        "name": "Jogginghose",
+        "id": 4384198
+      },
+      {
+        "color": "grau",
+        "name": "Jogginghose",
+        "id": 3956693
+      },
+      {
+        "color": "schwarz",
+        "name": "Jogginghose",
+        "id": 3421699
+      }
+    ],
+    "id": 4384198,
+    "brand": "Nike Sportswear"
+  },
+  {
+    "price": "ab 34,90 EUR",
+    "variants": [
+      {
+        "color": "dunkelgrau",
+        "name": "Herren - Jeans \u0027JJITOM JJORIGINAL AM 817 NOOS\u0027",
+        "id": 4106687
+      }
+    ],
+    "id": 4106687,
+    "brand": "JACK \u0026 JONES"
+  },
+  {
+    "price": "24,90 EUR",
+    "variants": [
+      {
+        "color": "weiß",
+        "name": "T-Shirt",
+        "id": 3840647
+      },
+      {
+        "color": "hellgrau",
+        "name": "Shirt",
+        "id": 3822944
+      },
+      {
+        "color": "dunkelblau",
+        "name": "T-Shirt \u0027TJM ORIGINAL JERSEY\u0027",
+        "id": 3822916
+      },
+      {
+        "color": "schwarz",
+        "name": "T-Shirt",
+        "id": 3822905
+      }
+    ],
+    "id": 3840647,
+    "brand": "Tommy Jeans"
+  },
+  {
+    "price": "44,90 EUR",
+    "variants": [
+      {
+        "color": "dunkelblau",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 4323805
+      },
+      {
+        "color": "pastellpink",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 4031867
+      },
+      {
+        "color": "beige",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 4334286
+      },
+      {
+        "color": "grau",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 4334276
+      },
+      {
+        "color": "khaki",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 4319620
+      },
+      {
+        "color": "hellblau",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 4319312
+      },
+      {
+        "color": "beige",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 4319302
+      },
+      {
+        "color": "mint",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 4319267
+      },
+      {
+        "color": "braunmeliert",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 4058084
+      },
+      {
+        "color": "taubenblau",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 4042191
+      },
+      {
+        "color": "hellgrün",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 4042185
+      },
+      {
+        "color": "champagner",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 4031863
+      },
+      {
+        "color": "pastellgrün",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 4031822
+      },
+      {
+        "color": "hellgrau",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 3941848
+      },
+      {
+        "color": "aqua",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 3912583
+      },
+      {
+        "color": "grau",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 3910705
+      },
+      {
+        "color": "hellblau",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 3910688
+      },
+      {
+        "color": "braun",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 3910679
+      },
+      {
+        "color": "rauchgrau",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 3910663
+      },
+      {
+        "color": "grünmeliert",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 3846869
+      },
+      {
+        "color": "mint",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 3849560
+      }
+    ],
+    "id": 4323805,
+    "brand": "naketano"
+  },
+  {
+    "price": "19,90 EUR",
+    "variants": [
+      {
+        "color": "weiß",
+        "name": "Shirt \u0027Club\u0027",
+        "id": 4337479
+      },
+      {
+        "color": "navy / weiß",
+        "name": "Shirt \u0027Club Tee\u0027 Jacke",
+        "id": 4341074
+      },
+      {
+        "color": "schwarz",
+        "name": "Shirt \u0027Club Tee\u0027",
+        "id": 4147223
+      }
+    ],
+    "id": 4337479,
+    "brand": "Nike Sportswear"
+  },
+  {
+    "price": "249,00 EUR",
+    "variants": [
+      {
+        "color": "lila / schwarz",
+        "name": "Daunenjacke \u0027M 1996 RTO NUPTSE JKT\u0027",
+        "id": 4493742
+      },
+      {
+        "color": "dunkelgrün / schwarz",
+        "name": "Daunenjacke \u0027M 1996 RTO NUPTSE JKT\u0027",
+        "id": 4381152
+      },
+      {
+        "color": "gelb / schwarz",
+        "name": "Daunenjacke \u0027M 1996 RTO NUPTSE JKT\u0027",
+        "id": 4479491
+      },
+      {
+        "color": "blau / schwarz",
+        "name": "Daunenjacke \u0027M 1996 RTO NUPTSE JKT\u0027",
+        "id": 4400184
+      },
+      {
+        "color": "schlammfarben / grün / schwarz",
+        "name": "Daunenjacke \u0027M 1996 RTO Nuptse JKT\u0027",
+        "id": 4435148
+      },
+      {
+        "color": "schwarz",
+        "name": "Daunenjacke \u0027M 1996 RTO NUPTSE JKT\u0027",
+        "id": 3938038
+      }
+    ],
+    "id": 4493742,
+    "brand": "THE NORTH FACE"
+  },
+  {
+    "price": "24,90 EUR",
+    "variants": [
+      {
+        "color": "schwarz",
+        "name": "Shirt",
+        "id": 4493344
+      },
+      {
+        "color": "grau",
+        "name": "Shirt",
+        "id": 4493358
+      },
+      {
+        "color": "dunkelblau / orangerot",
+        "name": "Shirt",
+        "id": 4436321
+      },
+      {
+        "color": "oliv / schwarz",
+        "name": "Shirt",
+        "id": 4436328
+      },
+      {
+        "color": "navy",
+        "name": "Shirt",
+        "id": 4434919
+      },
+      {
+        "color": "dunkelblau / senf",
+        "name": "Shirt",
+        "id": 4429927
+      }
+    ],
+    "id": 4493344,
+    "brand": "Champion Authentic Athletic Apparel"
+  },
+  {
+    "price": "34,90 EUR",
+    "variants": [
+      {
+        "color": "rauchgrau",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 3910663
+      },
+      {
+        "color": "pastellpink",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 4031867
+      },
+      {
+        "color": "beige",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 4334286
+      },
+      {
+        "color": "grau",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 4334276
+      },
+      {
+        "color": "dunkelblau",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 4323805
+      },
+      {
+        "color": "khaki",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 4319620
+      },
+      {
+        "color": "hellblau",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 4319312
+      },
+      {
+        "color": "beige",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 4319302
+      },
+      {
+        "color": "mint",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 4319267
+      },
+      {
+        "color": "braunmeliert",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 4058084
+      },
+      {
+        "color": "taubenblau",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 4042191
+      },
+      {
+        "color": "hellgrün",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 4042185
+      },
+      {
+        "color": "champagner",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 4031863
+      },
+      {
+        "color": "pastellgrün",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 4031822
+      },
+      {
+        "color": "hellgrau",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 3941848
+      },
+      {
+        "color": "aqua",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 3912583
+      },
+      {
+        "color": "grau",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 3910705
+      },
+      {
+        "color": "hellblau",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 3910688
+      },
+      {
+        "color": "braun",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 3910679
+      },
+      {
+        "color": "grünmeliert",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 3846869
+      },
+      {
+        "color": "mint",
+        "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+        "id": 3849560
+      }
+    ],
+    "id": 3910663,
+    "brand": "naketano"
+  },
+  {
+    "price": "ab 59,90 EUR",
+    "variants": [
+      {
+        "color": "schwarz / weiß",
+        "name": "Jogginghose T-Shirt \u0027Trefoil\u0027",
+        "id": 3806551
+      },
+      {
+        "color": "blau / weiß",
+        "name": "Trainingshose \u0027Franz Beckenbauer\u0027",
+        "id": 4102973
+      },
+      {
+        "color": "schwarz / weiß",
+        "name": "T-Shirt \u0027Trefoil\u0027",
+        "id": 3806574
+      }
+    ],
+    "id": 3806551,
+    "brand": "ADIDAS ORIGINALS"
+  },
+  {
+    "price": "34,90 EUR",
+    "variants": [
+      {
+        "color": "schwarz / weiß",
+        "name": "Shirt Jeans \u0027HIBALLUTILITY\u0027",
+        "id": 4346893
+      },
+      {
+        "color": "grau / weiß",
+        "name": "Shirt",
+        "id": 4337644
+      },
+      {
+        "color": "black denim",
+        "name": "Jeans \u0027HIBALLUTILITY\u0027 Shirt",
+        "id": 4345541
+      }
+    ],
+    "id": 4346893,
+    "brand": "LEVI\u0027S"
+  },
+  {
+    "price": "229,00 EUR",
+    "variants": [
+      {
+        "color": "schwarz",
+        "name": "Funktionsjacke \u0027Himalayan Light Down Hoodie\u0027",
+        "id": 3954802
+      },
+      {
+        "color": "gelb / schwarz",
+        "name": "Funktionsjacke \u0027Himalayan Light Down\u0027 Boots \u0027AF 6 IN ANNVRSRY\u0027",
+        "id": 4479580
+      }
+    ],
+    "id": 3954802,
+    "brand": "THE NORTH FACE"
+  },
+  {
+    "price": "49,90 EUR",
+    "variants": [
+      {
+        "color": "schwarz",
+        "name": "Kapuzenpullover \u0027Air 5\u0027",
+        "id": 4393088
+      },
+      {
+        "color": "dunkelgrau / weiß",
+        "name": "Sweatshirt \u0027PO HOODIE NIKE AIR 5\u0027",
+        "id": 4485059
+      }
+    ],
+    "id": 4393088,
+    "brand": "Nike Sportswear"
+  },
+  {
+    "price": "39,90 EUR",
+    "variants": [
+      {
+        "color": "schwarz",
+        "name": "Shirt",
+        "id": 4453114
+      },
+      {
+        "color": "weiß",
+        "name": "T-Shirt",
+        "id": 4444467
+      },
+      {
+        "color": "aubergine",
+        "name": "Shirt",
+        "id": 4496515
+      },
+      {
+        "color": "enzian / senf / schwarz",
+        "name": "T-Shirt",
+        "id": 4445942
+      }
+    ],
+    "id": 4453114,
+    "brand": "GUESS"
+  },
+  {
+    "price": "29,90 EUR",
+    "variants": [
+      {
+        "color": "navy / weiß",
+        "name": "Hoodie \u0027ECORP\u0027",
+        "id": 3947842
+      },
+      {
+        "color": "schwarz",
+        "name": "Hoodie",
+        "id": 3924766
+      }
+    ],
+    "id": 3947842,
+    "brand": "JACK \u0026 JONES"
+  },
+  {
+    "price": "39,90 EUR",
+    "variants": [
+      {
+        "color": "black denim",
+        "name": "Hemd \u0027JJESHERIDAN SHIRT L/S\u0027",
+        "id": 3923174
+      },
+      {
+        "color": "blue denim",
+        "name": "Hemd",
+        "id": 3947523
+      },
+      {
+        "color": "grau / grey denim",
+        "name": "Hemd \u0027JJESHERIDAN\u0027",
+        "id": 3923840
+      }
+    ],
+    "id": 3923174,
+    "brand": "JACK \u0026 JONES"
+  },
+  {
+    "price": "ab 49,99 EUR",
+    "variants": [
+      {
+        "color": "beigemeliert",
+        "name": "Troyer-Pullover",
+        "id": 3706541
+      },
+      {
+        "color": "anthrazit",
+        "name": "Troyer-Pullover",
+        "id": 4360601
+      }
+    ],
+    "id": 3706541,
+    "brand": "RHODE ISLAND"
+  },
+  {
+    "price": "27,90 EUR",
+    "variants": [
+      {
+        "color": "schwarz / weiß",
+        "name": "T-Shirt \u0027Outline\u0027",
+        "id": 4472955
+      },
+      {
+        "color": "royalblau / weiß",
+        "name": "T-Shirt \u0027Outline\u0027",
+        "id": 4301213
+      },
+      {
+        "color": "schwarz / weiß",
+        "name": "T-Shirt \u0027Outline\u0027",
+        "id": 4329624
+      }
+    ],
+    "id": 4472955,
+    "brand": "ADIDAS ORIGINALS"
+  },
+  {
+    "price": "19,99 EUR",
+    "variants": [
+      {
+        "color": "schwarz",
+        "name": "Pullover",
+        "id": 4307053
+      }
+    ],
+    "id": 4307053,
+    "brand": "BRUNO BANANI"
+  },
+  {
+    "price": "39,90 EUR",
+    "variants": [
+      {
+        "color": "schwarz",
+        "name": "Boxershorts",
+        "id": 4491115
+      },
+      {
+        "color": "saphir / smaragd / rot",
+        "name": "Boxershorts \u0027LOW RISE TRUNK\u0027",
+        "id": 4299752
+      },
+      {
+        "color": "hellblau / orange / schwarz",
+        "name": "Boxershorts",
+        "id": 4282092
+      },
+      {
+        "color": "schwarz",
+        "name": "Boxershorts",
+        "id": 4343745
+      }
+    ],
+    "id": 4491115,
+    "brand": "Calvin Klein Underwear"
+  },
+  {
+    "price": "24,90 EUR",
+    "variants": [
+      {
+        "color": "navy",
+        "name": "Shirt",
+        "id": 4434919
+      },
+      {
+        "color": "grau",
+        "name": "Shirt",
+        "id": 4493358
+      },
+      {
+        "color": "schwarz",
+        "name": "Shirt",
+        "id": 4493344
+      },
+      {
+        "color": "dunkelblau / orangerot",
+        "name": "Shirt",
+        "id": 4436321
+      },
+      {
+        "color": "oliv / schwarz",
+        "name": "Shirt",
+        "id": 4436328
+      },
+      {
+        "color": "dunkelblau / senf",
+        "name": "Shirt",
+        "id": 4429927
+      }
+    ],
+    "id": 4434919,
+    "brand": "Champion Authentic Athletic Apparel"
+  },
+  {
+    "price": "69,95 EUR",
+    "variants": [
+      {
+        "color": "blau",
+        "name": "Blouson \u0027Bacon\u0027",
+        "id": 4372629
+      },
+      {
+        "color": "oliv",
+        "name": "Blouson \u0027Bacon\u0027",
+        "id": 4372644
+      },
+      {
+        "color": "grün",
+        "name": "Blouson \u0027 Bacon \u0027",
+        "id": 4371693
+      },
+      {
+        "color": "weiß",
+        "name": "Blouson \u0027Bacon\u0027",
+        "id": 4372621
+      },
+      {
+        "color": "schwarz",
+        "name": "Blouson \u0027Bacon\u0027",
+        "id": 4372636
+      }
+    ],
+    "id": 4372629,
+    "brand": "INDICODE JEANS"
+  },
+  {
+    "price": "24,90 EUR",
+    "variants": [
+      {
+        "color": "dunkelblau",
+        "name": "T-Shirt",
+        "id": 3693178
+      },
+      {
+        "color": "weiß",
+        "name": "T-shirt \u0027Housemark Graphic Tee\u0027",
+        "id": 4282078
+      },
+      {
+        "color": "weiß",
+        "name": "T-Shirt \u0027HOUSEMARK\u0027",
+        "id": 4380595
+      },
+      {
+        "color": "weinrot",
+        "name": "T-shirt \u0027HOUSEMARK GRAPHIC TEE\u0027 Jeans \u0027Hi-Ball Roll\u0027",
+        "id": 4331770
+      },
+      {
+        "color": "dunkelblau",
+        "name": "T-shirt \u0027Housemark Graphic Tee\u0027",
+        "id": 4280897
+      },
+      {
+        "color": "schwarz",
+        "name": "T-shirt \u0027HOUSEMARK GRAPHIC\u0027",
+        "id": 4276456
+      },
+      {
+        "color": "hellblau / weiß",
+        "name": "T-Shirt \u0027HOUSEMARK\u0027",
+        "id": 3903170
+      },
+      {
+        "color": "rot / weiß",
+        "name": "T-Shirt",
+        "id": 4295598
+      },
+      {
+        "color": "schwarz",
+        "name": "T-Shirt",
+        "id": 3534402
+      },
+      {
+        "color": "weiß",
+        "name": "T-Shirt",
+        "id": 3431043
+      },
+      {
+        "color": "grau",
+        "name": "T-Shirt",
+        "id": 3431042
+      }
+    ],
+    "id": 3693178,
+    "brand": "LEVI\u0027S"
+  },
+  {
+    "price": "89,90 EUR",
+    "variants": [
+      {
+        "color": "grau",
+        "name": "Jogginghose",
+        "id": 3956693
+      },
+      {
+        "color": "hellgrau / schwarz",
+        "name": "Jogginghose",
+        "id": 4384198
+      },
+      {
+        "color": "schwarz",
+        "name": "Jogginghose",
+        "id": 3421699
+      }
+    ],
+    "id": 3956693,
+    "brand": "Nike Sportswear"
+  },
+  {
+    "price": "29,90 EUR",
+    "variants": [
+      {
+        "color": "navy / mischfarben",
+        "name": "Pullover \u0027JORFLASH KNIT CREW NECK\u0027",
+        "id": 4347317
+      },
+      {
+        "color": "hellblau / hellrot",
+        "name": "Pullover",
+        "id": 4347326
+      },
+      {
+        "color": "blau / grau / grün",
+        "name": "Pullover \u0027JORFLASH KNIT CREW NECK\u0027",
+        "id": 4346968
+      },
+      {
+        "color": "navy / gelb / hellgrau",
+        "name": "Pullover \u0027JORFLASH KNIT CREW NECK\u0027",
+        "id": 4346916
+      }
+    ],
+    "id": 4347317,
+    "brand": "JACK \u0026 JONES"
+  },
+  {
+    "price": "19,90 EUR",
+    "variants": [
+      {
+        "color": "grün / oliv",
+        "name": "Sweatshirt",
+        "id": 3928058
+      },
+      {
+        "color": "dunkelorange",
+        "name": "Sweatshirt \u0027JJEHOLMEN\u0027",
+        "id": 4373701
+      },
+      {
+        "color": "navy",
+        "name": "Sweatshirt \u0027JJEHOLMEN SWEAT CREW NECK\u0027",
+        "id": 3933196
+      },
+      {
+        "color": "grau / dunkelgrau / graumeliert",
+        "name": "Sweatshirt Sneaker \u0027Stan Smith\u0027",
+        "id": 3930156
+      },
+      {
+        "color": "weinrot",
+        "name": "Sweatshirt \u0027JJEHOLMEN\u0027",
+        "id": 3930139
+      },
+      {
+        "color": "schwarz",
+        "name": "Sweatshirt",
+        "id": 3927828
+      }
+    ],
+    "id": 3928058,
+    "brand": "JACK \u0026 JONES"
+  },
+  {
+    "price": "59,99 EUR",
+    "variants": [
+      {
+        "color": "dunkelgrau",
+        "name": "Mantel",
+        "id": 4419889
+      },
+      {
+        "color": "schwarz",
+        "name": "Mantel",
+        "id": 4468372
+      },
+      {
+        "color": "dunkelblau",
+        "name": "Mantel",
+        "id": 4424653
+      }
+    ],
+    "id": 4419889,
+    "brand": "Only \u0026 Sons"
+  },
+  {
+    "price": "39,90 EUR",
+    "variants": [
+      {
+        "color": "schwarz",
+        "name": "Hose",
+        "id": 3952815
+      },
+      {
+        "color": "dunkelgrau",
+        "name": "Hose \u0027MARK\u0027",
+        "id": 4463345
+      },
+      {
+        "color": "dunkelblau",
+        "name": "Hose \u0027MARK PANT GW 0209\u0027",
+        "id": 4305913
+      },
+      {
+        "color": "graumeliert",
+        "name": "Hose \u0027onsMARK PANT GW 0209 NOOS\u0027",
+        "id": 3952824
+      },
+      {
+        "color": "navy",
+        "name": "Hose \u0027MARK PANT GW 0209\u0027",
+        "id": 3952720
+      }
+    ],
+    "id": 3952815,
+    "brand": "Only \u0026 Sons"
+  },
+  {
+    "price": "199,95 EUR",
+    "variants": [
+      {
+        "color": "anthrazit / schwarz",
+        "name": "Jacke \u0027Puffer\u0027",
+        "id": 4485470
+      },
+      {
+        "color": "dunkelblau / dunkelgrün / orange",
+        "name": "Winterjacke",
+        "id": 4484961
+      }
+    ],
+    "id": 4485470,
+    "brand": "HELLY HANSEN"
+  },
+  {
+    "price": "24,90 EUR",
+    "variants": [
+      {
+        "color": "dunkelgrau",
+        "name": "Pullover Sneaker \u0027Stan Smith\u0027",
+        "id": 3933220
+      },
+      {
+        "color": "nachtblau",
+        "name": "Pullover",
+        "id": 3935615
+      },
+      {
+        "color": "schwarz",
+        "name": "Pullover",
+        "id": 3935610
+      },
+      {
+        "color": "graumeliert",
+        "name": "Pullover \u0027JJEBASIC KNIT CREW NECK\u0027 Sneaker \u0027Stan Smith\u0027",
+        "id": 3933211
+      },
+      {
+        "color": "dunkelgrün",
+        "name": "Pullover \u0027JJEBASIC\u0027",
+        "id": 3947473
+      },
+      {
+        "color": "weiß",
+        "name": "Sneaker \u0027Stan Smith\u0027",
+        "id": 2192393
+      }
+    ],
+    "id": 3933220,
+    "brand": "JACK \u0026 JONES"
+  },
+  {
+    "price": "21,90 EUR",
+    "variants": [
+      {
+        "color": "nachtblau / weiß",
+        "name": "T-Shirt \u0027Prado\u0027",
+        "id": 3665552
+      },
+      {
+        "color": "schwarz",
+        "name": "T-Shirt \u0027Prado\u0027",
+        "id": 3653123
+      },
+      {
+        "color": "dunkelblau / graumeliert",
+        "name": "T-Shirt \u0027PRADO\u0027",
+        "id": 3650747
+      },
+      {
+        "color": "dunkelblau / weiß",
+        "name": "T-Shirt \u0027Prado\u0027",
+        "id": 3665545
+      }
+    ],
+    "id": 3665552,
+    "brand": "ELLESSE"
+  },
+  {
+    "price": "49,90 EUR",
+    "variants": [
+      {
+        "color": "schwarz",
+        "name": "Röhrenjeans \u0027Liam\u0027",
+        "id": 3424616
+      },
+      {
+        "color": "grey denim",
+        "name": "Röhrenjeans \u0027Liam\u0027",
+        "id": 3424682
+      },
+      {
+        "color": "blue denim",
+        "name": "Röhrenjeans \u0027Liam\u0027",
+        "id": 3424644
+      }
+    ],
+    "id": 3424616,
+    "brand": "JACK \u0026 JONES"
+  },
+  {
+    "price": "ab 49,90 EUR",
+    "variants": [
+      {
+        "color": "dunkelgrau",
+        "name": "Hose",
+        "id": 4027171
+      },
+      {
+        "color": "schwarz",
+        "name": "Hose",
+        "id": 3706023
+      },
+      {
+        "color": "oliv",
+        "name": "Hose",
+        "id": 3706021
+      },
+      {
+        "color": "sand",
+        "name": "Hose",
+        "id": 3706017
+      }
+    ],
+    "id": 4027171,
+    "brand": "Urban Classics"
+  },
+  {
+    "price": "54,99 EUR",
+    "variants": [
+      {
+        "color": "schwarz",
+        "name": "Kapuzensweatshirt",
+        "id": 4318915
+      },
+      {
+        "color": "rot",
+        "name": "Kapuzensweatshirt",
+        "id": 4318908
+      },
+      {
+        "color": "schwarz / weiß",
+        "name": "Sweatshirt \u0027M NSW CLUB HOODIE PO BB GX\u0027 Sweathose \u0027NSW CE\u0027",
+        "id": 4466630
+      },
+      {
+        "color": "graumeliert",
+        "name": "Hoodie",
+        "id": 4374399
+      }
+    ],
+    "id": 4318915,
+    "brand": "Nike Sportswear"
+  },
+  {
+    "price": "29,90 EUR",
+    "variants": [
+      {
+        "color": "schwarz",
+        "name": "Hoodie",
+        "id": 3924766
+      },
+      {
+        "color": "navy / weiß",
+        "name": "Hoodie \u0027ECORP\u0027",
+        "id": 3947842
+      }
+    ],
+    "id": 3924766,
+    "brand": "JACK \u0026 JONES"
+  },
+  {
+    "price": "39,90 EUR",
+    "variants": [
+      {
+        "color": "black denim",
+        "name": "Jeans \u0027onsLOOM BLACK DCC 0448 NOOS\u0027 Sneaker Low \u0027OLD SKOOL\u0027",
+        "id": 4020020
+      },
+      {
+        "color": "schwarz / weiß",
+        "name": "Sneaker Low \u0027OLD SKOOL\u0027",
+        "id": 3568827
+      }
+    ],
+    "id": 4020020,
+    "brand": "Only \u0026 Sons"
+  },
+  {
+    "price": "ab 39,99 EUR",
+    "variants": [
+      {
+        "color": "schwarz",
+        "name": "Boxershorts \u0027Trunk\u0027",
+        "id": 3396665
+      },
+      {
+        "color": "blau / dunkelpink",
+        "name": "Boxershorts \u0027Trunk\u0027",
+        "id": 4335842
+      },
+      {
+        "color": "navy / hellblau / gelb",
+        "name": "Boxershorts \u0027Trunk\u0027",
+        "id": 4276017
+      },
+      {
+        "color": "navy / jade / eosin / weiß",
+        "name": "Boxershorts \u0027Trunk\u0027",
+        "id": 4135929
+      },
+      {
+        "color": "navy / pastellblau / puder / hellrot",
+        "name": "Boxershorts \u0027Trunk\u0027",
+        "id": 4135920
+      },
+      {
+        "color": "dunkelblau / tanne / beere",
+        "name": "Trunks",
+        "id": 3916688
+      },
+      {
+        "color": "dunkelblau",
+        "name": "Trunks",
+        "id": 3888988
+      },
+      {
+        "color": "grau / schwarz / weiß",
+        "name": "Boxershorts",
+        "id": 3415109
+      },
+      {
+        "color": "dunkelblau",
+        "name": "Boxershorts \u0027Trunk\u0027",
+        "id": 3396662
+      },
+      {
+        "color": "navy / rot / weiß",
+        "name": "Boxershorts",
+        "id": 2074333
+      },
+      {
+        "color": "blau / grün / lila",
+        "name": "Trunks im 3er-Pack",
+        "id": 4134417
+      }
+    ],
+    "id": 3396665,
+    "brand": "Tommy Hilfiger Underwear"
+  },
+  {
+    "price": "39,90 EUR",
+    "variants": [
+      {
+        "color": "schwarz",
+        "name": "Shirt",
+        "id": 4412584
+      },
+      {
+        "color": "dunkelblau / rot / weiß",
+        "name": "Shirt",
+        "id": 4254016
+      },
+      {
+        "color": "dunkelblau",
+        "name": "Shirt",
+        "id": 4249545
+      },
+      {
+        "color": "grau",
+        "name": "Shirt \u0027TOMMY LOGO TEE\u0027",
+        "id": 4261737
+      }
+    ],
+    "id": 4412584,
+    "brand": "TOMMY HILFIGER"
+  },
+  {
+    "price": "ab 39,90 EUR",
+    "variants": [
+      {
+        "color": "graumeliert / schwarz / weiß",
+        "name": "Boxershorts",
+        "id": 606896
+      },
+      {
+        "color": "dunkelblau / koralle / schwarz / weiß",
+        "name": "Boxershorts",
+        "id": 4200798
+      },
+      {
+        "color": "blau / dunkelgrau / rot",
+        "name": "Boxershorts",
+        "id": 4071914
+      },
+      {
+        "color": "blau / schwarz",
+        "name": "Boxershorts",
+        "id": 4026487
+      },
+      {
+        "color": "blau / grün / orange",
+        "name": "Boxershorts",
+        "id": 3962387
+      },
+      {
+        "color": "schwarz",
+        "name": "Retro-Boxershorts im 3er Pack",
+        "id": 3764345
+      },
+      {
+        "color": "weiß",
+        "name": "Retro-Boxershorts im 3er Pack",
+        "id": 606897
+      }
+    ],
+    "id": 606896,
+    "brand": "Calvin Klein Underwear"
   }
 ]
