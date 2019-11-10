@@ -13,7 +13,7 @@ Or also you can open this project in IntelliJ Idea and run;
 
 # Input
 
-HTML page from website "https://www.aboutyou.de/maenner/bekleidun"
+HTML page from website "https://www.aboutyou.de/maenner/bekleidung"
 
 # Output
 
