@@ -9,6 +9,8 @@ git clone https://github.com/past77/JsoupParser.git parserJSoup && cd parserJSou
 java -jar Parser-1.0-SNAPSHOT-jar-with-dependencies.jar 
 
 Or also you can open this project in IntelliJ Idea and run;
+
+
 ```
 
 # Input
@@ -22,3 +24,5 @@ HTML page from website "https://www.aboutyou.de/maenner/bekleidung"
 • Amount of extracted products  <br>
 
 • JSON file products.json <br>
+
+*Pay attention! You must have installed Mozila Firefox browser*
