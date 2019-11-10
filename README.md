@@ -17,6 +17,6 @@ HTML page from website "https://www.aboutyou.de/maenner/bekleidung"
 
 # Output
 
-• Amount of triggered HTTP requests /n
+• Amount of triggered HTTP requests <br>
 • Amount of extracted products  /n
 • JSON file products.json /n
