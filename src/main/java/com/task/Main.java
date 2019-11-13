@@ -17,9 +17,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.interactions.Actions;
 
 
-import static com.sun.deploy.config.OSType.isUnix;
-import static com.sun.javafx.PlatformUtil.isWindows;
-import static com.sun.javafx.util.Utils.isMac;
+import static com.sun.javafx.PlatformUtil.*;
 
 
 public class Main {
@@ -35,7 +33,6 @@ public class Main {
     private static ParseID pid = new ParseID();
     private static ParseName pn = new ParseName();
     private static  String jsonString;
-    private static String OS = System.getProperty("os.name").toLowerCase();
 
     /**
      * For scrolling HTML page in order to extract all block that is hidden with JavaScript
@@ -75,7 +72,7 @@ public class Main {
         if (isWindows()) {
             System.setProperty(FinalsWords.WEBDRIVER, "src/main/resources/geckodriver.exe");
         } else if (isMac()) {
-            System.setProperty(FinalsWords.WEBDRIVER, "src/main/resources/geckodriver_mac");
+            System.setProperty(FinalsWords.WEBDRIVER, "src/main/resources/geckodriver");
         } else if (isUnix()) {
             System.setProperty(FinalsWords.WEBDRIVER, "src/main/resources/geckodriver_lin");
         }
